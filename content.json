@@ -70,7 +70,7 @@
   "sections": {
     "nav": {
       "logo": {
-        "name": "zahraa®",
+        "name": "zahraa",
         "tagline": "Design × Engineering",
         "href": "#top"
       },
@@ -149,6 +149,10 @@
           {
             "label": "Majarat",
             "href": "https://www.instagram.com/majarat.uiux/"
+          },
+          {
+            "label": "Monova",
+            "href": "https://www.instagram.com/monova_agency/"
           }
         ],
         "cta": {
@@ -1367,6 +1371,10 @@
           {
             "name": "Majarat",
             "href": "https://www.instagram.com/majarat.uiux/"
+          },
+          {
+            "name": "Monova",
+            "href": "https://www.instagram.com/monova_agency/"
           }
         ]
       },
@@ -1488,6 +1496,10 @@
           {
             "label": "Majarat",
             "href": "https://majarat.online/"
+          },
+          {
+            "label": "Monova",
+            "href": "https://www.instagram.com/monova_agency/"
           }
         ]
       },
