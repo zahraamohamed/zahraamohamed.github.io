@@ -35,6 +35,10 @@
       "visible": true
     },
     {
+      "id": "consult",
+      "visible": true
+    },
+    {
       "id": "timeline",
       "visible": true
     },
@@ -214,7 +218,7 @@
       },
       "tear": {
         "video": "work/character/tear.mp4",
-        "poster": "work/character/tear-end.jpg",
+        "poster": "work/character/tear-end.webp",
         "roles": [
           {
             "label": "Senior"
@@ -281,15 +285,15 @@
             "alt": "زهراء رسن"
           },
           {
-            "src": "work/m/auib-01-laptop-rock.jpg",
+            "src": "work/m/auib-01-laptop-rock.webp",
             "alt": "AUIB"
           },
           {
-            "src": "work/m/mazajk-01-hand-magenta.jpg",
+            "src": "work/m/mazajk-01-hand-magenta.webp",
             "alt": "مزاجك"
           },
           {
-            "src": "work/m/ibank-01-dual-floating.jpg",
+            "src": "work/m/ibank-01-dual-floating.webp",
             "alt": "iBank"
           }
         ],
@@ -317,7 +321,7 @@
         "label": "على تواصل"
       },
       "video": "work/hero-loop.mp4",
-      "grain": "assets/width256height256_images_JEXWGoePoUiV1n4YylT8Fc37Us.jpg"
+      "grain": "assets/width256height256_images_JEXWGoePoUiV1n4YylT8Fc37Us.webp"
     },
     "hello": {
       "label": {
@@ -342,11 +346,11 @@
       },
       "photos": {
         "left": {
-          "src": "work/m/mazajk-05-kitchen.jpg",
+          "src": "work/m/mazajk-05-kitchen.webp",
           "chip": "Mazajak"
         },
         "right": {
-          "src": "work/m/auib-03-laptop-desk.jpg",
+          "src": "work/m/auib-03-laptop-desk.webp",
           "chip": "AUIB"
         }
       },
@@ -481,7 +485,7 @@
             "Fintech",
             "3D"
           ],
-          "image": "work/m/case-shipyard.jpg",
+          "image": "work/m/case-shipyard.webp",
           "alt": "موقع Shipyard للمدفوعات الآمنة",
           "video": "work/m/case-shipyard.mp4",
           "href": "#portfolio",
@@ -497,7 +501,7 @@
             "UI/UX",
             "Delivery"
           ],
-          "image": "work/m/wide-mazajak.jpg",
+          "image": "work/m/wide-mazajak.webp",
           "alt": "تطبيق مزاجك للتسوق والتوصيل",
           "video": "work/m/case-mazajak.mp4",
           "href": "https://www.instagram.com/reel/DPP7YpcCvHQ/",
@@ -513,7 +517,7 @@
             "Mobile App",
             "UI/UX"
           ],
-          "image": "work/m/wide-ibank.jpg",
+          "image": "work/m/wide-ibank.webp",
           "alt": "تطبيق الخدمات المصرفية",
           "href": "#portfolio",
           "position": "50% 50%"
@@ -529,7 +533,7 @@
             "Frontend",
             "Motion"
           ],
-          "image": "work/m/wide-majarat.jpg",
+          "image": "work/m/wide-majarat.webp",
           "alt": "موقع مجرات",
           "video": "work/m/case-majarat.mp4",
           "href": "https://majarat.online/",
@@ -545,7 +549,7 @@
             "Web Design",
             "Frontend"
           ],
-          "image": "work/m/wide-almurabba.jpg",
+          "image": "work/m/wide-almurabba.webp",
           "alt": "موقع المربع للعمران والتطوير",
           "href": "#portfolio",
           "position": "50% 50%",
@@ -561,14 +565,14 @@
             "Next.js",
             "3D Mascot"
           ],
-          "image": "work/m/case-opencode.jpg",
+          "image": "work/m/case-opencode.webp",
           "alt": "موقع شركة أوبن كود",
           "video": "work/m/case-opencode.mp4",
           "href": "https://www.instagram.com/p/C1o3SJut3zs/",
           "position": "50% 50%"
         }
       ],
-      "noise": "assets/width256height256_images_JEXWGoePoUiV1n4YylT8Fc37Us.jpg",
+      "noise": "assets/width256height256_images_JEXWGoePoUiV1n4YylT8Fc37Us.webp",
       "more": {
         "label": "أعمال أخرى /",
         "jp": "MORE CASES",
@@ -590,7 +594,7 @@
             "year": "2025",
             "title": "4SEASONS: خدمات المخيمات المتكاملة",
             "subtitle": "موقع شركة · Web Design",
-            "image": "work/m/case-4seasons.jpg",
+            "image": "work/m/case-4seasons.webp",
             "href": "#portfolio"
           },
           {
@@ -598,7 +602,7 @@
             "year": "2025",
             "title": "نجمة: متجر أزياء",
             "subtitle": "تطبيق تسوق · منتجات، مقاسات وألوان",
-            "image": "work/m/najma-01-dual-floating.jpg",
+            "image": "work/m/najma-01-dual-floating.webp",
             "href": "#portfolio"
           },
           {
@@ -606,7 +610,7 @@
             "year": "2025",
             "title": "نلعب NL33: متجر إكسسوارات الألعاب",
             "subtitle": "متجر إلكتروني · Web Design",
-            "image": "work/m/nal3ab-03-laptop-rock.jpg",
+            "image": "work/m/nal3ab-03-laptop-rock.webp",
             "href": "#portfolio"
           },
           {
@@ -614,7 +618,7 @@
             "year": "2025",
             "title": "PipPip: اكتشف المطاعم القريبة",
             "subtitle": "تطبيق · خريطة وعجلة حظ للعروض",
-            "image": "work/m/pippip-05-dual-purple.jpg",
+            "image": "work/m/pippip-05-dual-purple.webp",
             "href": "#portfolio"
           },
           {
@@ -622,7 +626,7 @@
             "year": "2025",
             "title": "نقاط البيع الذكية",
             "subtitle": "تطبيق دفع · بطاقة، NFC و QR",
-            "image": "work/m/ibank-05-pos-marble.jpg",
+            "image": "work/m/ibank-05-pos-marble.webp",
             "href": "#portfolio"
           },
           {
@@ -630,7 +634,7 @@
             "year": "2024",
             "title": "حجوزات: كل شركات السفر بمكان واحد",
             "subtitle": "موقع حجوزات · Web Design",
-            "image": "work/case-hujozat.jpg",
+            "image": "work/case-hujozat.webp",
             "href": "https://www.instagram.com/reel/C-nSrRlNxBz/"
           }
         ]
@@ -799,15 +803,15 @@
             "alt": "زهراء رسن"
           },
           {
-            "src": "work/m/auib-01-laptop-rock.jpg",
+            "src": "work/m/auib-01-laptop-rock.webp",
             "alt": "AUIB"
           },
           {
-            "src": "work/m/ibank-03-hand.jpg",
+            "src": "work/m/ibank-03-hand.webp",
             "alt": "iBank"
           },
           {
-            "src": "work/m/najma-01-dual-floating.jpg",
+            "src": "work/m/najma-01-dual-floating.webp",
             "alt": "نجمة"
           }
         ],
@@ -866,7 +870,7 @@
       },
       "cardE": {
         "title": "بوت كامب مجرات",
-        "image": "work/m/majarat-01-cosmic.jpg",
+        "image": "work/m/majarat-01-cosmic.webp",
         "mom": "100 من 312",
         "counter": [
           3,
@@ -1025,7 +1029,7 @@
           "year": "2021–23",
           "title": "مجموعة النبع\nProduct Designer",
           "text": "أول وظيفة بدوام كامل كمصممة منتجات ببغداد، وبنفس الوقت بديت شغل الفريلانس كـ UX/UI Designer وهو مستمر لهسه.",
-          "image": "work/miswag.jpg",
+          "image": "work/miswag.webp",
           "logo": {
             "ar": "مجموعة النبع",
             "en": "Al Nabaa",
@@ -1036,7 +1040,7 @@
           "year": "2023–24",
           "title": "أوبن كود\nUI UX Lead",
           "text": "بديت Product Designer وصرت UI UX Lead: تصميم منتجات الشركة وموقعها، وقيادة شغل الـ UI/UX مع فريق التطوير.",
-          "image": "work/opencode.jpg",
+          "image": "work/opencode.webp",
           "logo": {
             "ar": "أوبن كود",
             "en": "Open Code",
@@ -1047,7 +1051,7 @@
           "year": "2024–25",
           "title": "Acquaintech\nUX Designer",
           "text": "صمّمت تطبيقات توصيل B2C للسائق والزبون. صارت أسهل بالتنقل وقلّت الحاجة للتدريب والدعم، بـ Journey Mapping واختبار مع مستخدمين حقيقيين.",
-          "image": "work/m/mazajk-03-dual-floating.jpg",
+          "image": "work/m/mazajk-03-dual-floating.webp",
           "logo": {
             "ar": "أكوينتك",
             "en": "Acquaintech"
@@ -1057,7 +1061,7 @@
           "year": "2024",
           "title": "الجامعة الأمريكية في بغداد\nSenior UX Designer",
           "text": "Senior UX Designer بدوام كامل، وبنفس الوقت أسّست مجرات: منصة وبوت كامب يعلّم الـ UI/UX مع الذكاء الاصطناعي.",
-          "image": "work/m/auib-01-laptop-rock.jpg",
+          "image": "work/m/auib-01-laptop-rock.webp",
           "logo": {
             "ar": "الجامعة الأمريكية في بغداد",
             "en": "AUIB",
@@ -1068,7 +1072,7 @@
           "year": "2025",
           "title": "الشركة الوطنية وشركة عبر الفرات\nUX Designer",
           "text": "تصميم تجربة المستخدم والواجهات لمنتجات الشركتين، من فهم احتياج المستخدم لحد تسليم تصاميم جاهزة للتطوير.",
-          "image": "work/abstract/ui-flow.jpg",
+          "image": "work/abstract/ui-flow.webp",
           "logo": {
             "ar": "عبر الفرات",
             "en": "Transforat",
@@ -1130,7 +1134,7 @@
           "name": "المصممة",
           "role": "UX Designer · AUIB",
           "quote": "التحدي الحقيقي إنك توفّر واجهة جميلة ومختلفة، بس المستخدم ما يحسها غريبة عليه.",
-          "src": "work/flybaghdad.jpg",
+          "src": "work/flybaghdad.webp",
           "alt": "إعادة تصميم تطبيق فلاي بغداد",
           "position": "50% 50%"
         },
@@ -1138,7 +1142,7 @@
           "name": "المطوّرة",
           "role": "Software Developer",
           "quote": "بنيت Skills تفكر بعقليتي، حتى تختصر عليّ ساعات من الشغل وتنطيني نقطة بداية قوية.",
-          "src": "work/cube.jpg",
+          "src": "work/cube.webp",
           "alt": "مكعب ثلاثي الأبعاد مبني بالكود",
           "position": "50% 50%"
         },
@@ -1146,7 +1150,7 @@
           "name": "المعلّمة",
           "role": "مؤسِّسة مجرات",
           "quote": "اللي نشوفه هسه ما يمثل 10٪ من الإمكانيات اللي ممكن نوصلها بالـ AI.",
-          "src": "work/dna.jpg",
+          "src": "work/dna.webp",
           "alt": "ريل Design DNA",
           "position": "50% 30%"
         },
@@ -1154,7 +1158,7 @@
           "name": "محبة الفضاء",
           "role": "Design × Engineering",
           "quote": "بالمجرة تحس إنك مو من قطعة أرض معيّنة، بل من المجموعة الشمسية كلها.",
-          "src": "work/majarat.jpg",
+          "src": "work/majarat.webp",
           "alt": "مجرات",
           "position": "50% 40%"
         }
@@ -1264,7 +1268,7 @@
       "posts": [
         {
           "href": "https://www.instagram.com/p/CryO_vRN3xn/",
-          "image": "work/post-accessibility.jpg",
+          "image": "work/post-accessibility.webp",
           "imageAlt": "",
           "date": "3 مايو 2023",
           "readTime": "Accessibility",
@@ -1277,7 +1281,7 @@
         },
         {
           "href": "https://www.instagram.com/p/C-H2W_PNFrE/",
-          "image": "work/post-ai-ui.jpg",
+          "image": "work/post-ai-ui.webp",
           "imageAlt": "",
           "date": "1 أغسطس 2024",
           "readTime": "Generative UI",
@@ -1290,7 +1294,7 @@
         },
         {
           "href": "https://www.instagram.com/p/C9u9IaWt0Qp/",
-          "image": "work/post-dashboard.jpg",
+          "image": "work/post-dashboard.webp",
           "imageAlt": "",
           "date": "22 يوليو 2024",
           "readTime": "Dashboard UX",
