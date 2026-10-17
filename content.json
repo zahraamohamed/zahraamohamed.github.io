@@ -97,6 +97,10 @@
           "href": "https://majarat.online/"
         },
         {
+          "label": "احجز استشارة",
+          "href": "#consult"
+        },
+        {
           "label": "ابدأ مشروعك",
           "href": "https://wa.me/9647744115884"
         }
@@ -120,6 +124,10 @@
           {
             "label": "الخبرة",
             "href": "#timeline"
+          },
+          {
+            "label": "احجز استشارة",
+            "href": "#consult"
           },
           {
             "label": "تواصل",
