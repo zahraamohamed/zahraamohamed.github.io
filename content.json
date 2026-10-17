@@ -1,0 +1,1506 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-09T16:32:46.351Z",
+  "layout": [
+    {
+      "id": "hero",
+      "visible": true
+    },
+    {
+      "id": "hello",
+      "visible": true
+    },
+    {
+      "id": "services",
+      "visible": true
+    },
+    {
+      "id": "portfolio",
+      "visible": true
+    },
+    {
+      "id": "strategy",
+      "visible": true
+    },
+    {
+      "id": "reviews",
+      "visible": true
+    },
+    {
+      "id": "features",
+      "visible": true
+    },
+    {
+      "id": "pricing",
+      "visible": true
+    },
+    {
+      "id": "timeline",
+      "visible": true
+    },
+    {
+      "id": "facts",
+      "visible": true
+    },
+    {
+      "id": "team",
+      "visible": false
+    },
+    {
+      "id": "quote",
+      "visible": true
+    },
+    {
+      "id": "faq",
+      "visible": true
+    },
+    {
+      "id": "blog",
+      "visible": false
+    },
+    {
+      "id": "subscribe",
+      "visible": false
+    },
+    {
+      "id": "contact",
+      "visible": true
+    }
+  ],
+  "sections": {
+    "nav": {
+      "logo": {
+        "name": "zahraa®",
+        "tagline": "Design × Engineering",
+        "href": "#top"
+      },
+      "nav": [
+        {
+          "label": "من أنا",
+          "href": "#hello"
+        },
+        {
+          "label": "الأعمال",
+          "href": "#portfolio",
+          "count": "12"
+        },
+        {
+          "label": "الخبرة",
+          "href": "#timeline"
+        },
+        {
+          "label": "مجرات",
+          "href": "https://majarat.online/"
+        },
+        {
+          "label": "ابدأ مشروعك",
+          "href": "https://wa.me/9647744115884"
+        }
+      ],
+      "menu": {
+        "navigationTitle": "التنقّل",
+        "navigation": [
+          {
+            "label": "من أنا",
+            "href": "#hello"
+          },
+          {
+            "label": "الأعمال",
+            "href": "#portfolio",
+            "count": "12"
+          },
+          {
+            "label": "الخدمات",
+            "href": "#services"
+          },
+          {
+            "label": "الخبرة",
+            "href": "#timeline"
+          },
+          {
+            "label": "تواصل",
+            "href": "#contact"
+          }
+        ],
+        "contactsTitle": "تواصل",
+        "contacts": {
+          "instagram": {
+            "label": "@zahraa_resen",
+            "href": "https://ig.me/m/zahraa_resen"
+          },
+          "website": {
+            "label": "majarat.online",
+            "href": "https://majarat.online/"
+          },
+          "address": [
+            "بغداد، العراق",
+            "متاحة للعمل · Hybrid / Remote"
+          ]
+        },
+        "socials": [
+          {
+            "label": "LinkedIn",
+            "href": "https://www.linkedin.com/in/zahraa-resen/"
+          },
+          {
+            "label": "Instagram",
+            "href": "https://www.instagram.com/zahraa_resen/"
+          },
+          {
+            "label": "Majarat",
+            "href": "https://www.instagram.com/majarat.uiux/"
+          }
+        ],
+        "cta": {
+          "label": "ابدأ مشروعك",
+          "href": "https://wa.me/9647744115884"
+        },
+        "legal": [
+          {
+            "label": "انستغرام",
+            "href": "https://www.instagram.com/zahraa_resen/"
+          },
+          {
+            "label": "مجرات",
+            "href": "https://majarat.online/"
+          }
+        ],
+        "copyright": "2021-26© Zahraa Resen"
+      },
+      "fixedBottom": {
+        "prefix": "كورس",
+        "middle": "مع",
+        "price": "مجرات",
+        "href": "https://majarat.online/"
+      }
+    },
+    "hero": {
+      "variant": "badge",
+      "badge": {
+        "avatar": "work/character/avatar.webp",
+        "name": "زهراء رسن",
+        "role": "Senior Design Engineer",
+        "available": "متاحة للمشاريع",
+        "headline": "من الفكرة لكود يشتغل.",
+        "text": "أصمّم منتجات رقمية تُفهم من أول نظرة، وأبنيها مع الذكاء الاصطناعي من الفكرة للكود.",
+        "stats": [
+          {
+            "value": "+50",
+            "label": "مشروع"
+          },
+          {
+            "value": "+5",
+            "label": "سنوات خبرة"
+          },
+          {
+            "value": "+10",
+            "label": "شركات وجهات"
+          }
+        ],
+        "primary": {
+          "label": "ابدأ مشروعك",
+          "href": "https://wa.me/9647744115884"
+        },
+        "secondary": {
+          "label": "أعمالي",
+          "href": "#portfolio"
+        },
+        "location": "بغداد، العراق",
+        "brand": "zahraa®"
+      },
+      "tear": {
+        "video": "work/character/tear.mp4",
+        "poster": "work/character/tear-end.jpg",
+        "roles": [
+          {
+            "label": "Senior"
+          },
+          {
+            "label": "Design Engineer",
+            "accent": true
+          }
+        ],
+        "stack": [
+          "UX",
+          "Figma",
+          "Code"
+        ],
+        "headline": "من الفكرة لكود يشتغل.",
+        "text": "أبدأ من فهم المستخدم: أصمّم التجربة، أبني الـ Design System، وأحوّلها لكود بنفسي مع الذكاء الاصطناعي. التصميم عندي ما يخلص بالـ Figma.",
+        "primary": {
+          "label": "ابدأ مشروعك",
+          "href": "https://wa.me/9647744115884"
+        },
+        "secondary": {
+          "label": "شوف أعمالي",
+          "href": "#portfolio"
+        }
+      },
+      "years": "2021-26©",
+      "slots": {
+        "prefix": "متاحة",
+        "muted": "لـ",
+        "month": "مشاريع المنتجات",
+        "filled": 5,
+        "total": 5,
+        "left": "DM",
+        "leftLabel": "راسلني"
+      },
+      "services": [
+        {
+          "n": "01.",
+          "label": "تصميم UI/UX للتطبيقات والمواقع"
+        },
+        {
+          "n": "02.",
+          "label": "مواقع مبنية بالذكاء الاصطناعي"
+        },
+        {
+          "n": "03.",
+          "label": "تعليم التصميم ومحتوى بالعربي"
+        }
+      ],
+      "wordmark": "zahraa",
+      "headline": "من الفكرة لكود يشتغل.",
+      "description": [
+        "Senior Design Engineer. أصمّم منتجات رقمية تُفهم من أول نظرة،",
+        "بتدفقات واضحة ونتائج حقيقية، وأبنيها مع الذكاء الاصطناعي من الفكرة للكود."
+      ],
+      "cta": {
+        "label": "ابدأ مشروعك",
+        "href": "https://wa.me/9647744115884"
+      },
+      "clients": {
+        "avatars": [
+          {
+            "src": "work/character/avatar.webp",
+            "alt": "زهراء رسن"
+          },
+          {
+            "src": "work/m/auib-01-laptop-rock.jpg",
+            "alt": "AUIB"
+          },
+          {
+            "src": "work/m/mazajk-01-hand-magenta.jpg",
+            "alt": "مزاجك"
+          },
+          {
+            "src": "work/m/ibank-01-dual-floating.jpg",
+            "alt": "iBank"
+          }
+        ],
+        "more": "11+",
+        "rating": "+5 سنوات",
+        "basedOn": "مشاريع لـ",
+        "reviews": "شركات ومنتجات رقمية"
+      },
+      "social": [
+        {
+          "name": "LinkedIn",
+          "href": "https://www.linkedin.com/in/zahraa-resen/"
+        },
+        {
+          "name": "Instagram",
+          "href": "https://www.instagram.com/zahraa_resen/"
+        },
+        {
+          "name": "Majarat",
+          "href": "https://www.instagram.com/majarat.uiux/"
+        }
+      ],
+      "stay": {
+        "muted": "خلّينا",
+        "label": "على تواصل"
+      },
+      "video": "work/hero-loop.mp4",
+      "grain": "assets/width256height256_images_JEXWGoePoUiV1n4YylT8Fc37Us.jpg"
+    },
+    "hello": {
+      "label": {
+        "brand": "ZR®",
+        "dash": "‒",
+        "title": "من أنا /",
+        "jp": "WHO I AM"
+      },
+      "headline": [
+        "أنا زهراء، مصممة ومطوّرة",
+        "أحوّل الأفكار إلى واجهات",
+        "ومواقع حيّة بالذكاء الاصطناعي."
+      ],
+      "quote": "خمس سنوات من العمل بين التصميم، الـUX، وتطوير المنتجات، مع تجارب في Open Code، الشركة الوطنية، والجامعة الأمريكية في بغداد. اليوم أركّز على UX Strategy وتصميم المنتجات المدعوم بالذكاء الاصطناعي، ببناء تجارب واضحة، سهلة، وتحوّل الأفكار إلى منتجات يحب الناس استخدامها والرجوع لها.",
+      "author": {
+        "name": "زهراء رسن",
+        "role": "Senior Design Engineer",
+        "at": "ومؤسِّسة",
+        "company": "Monova",
+        "avatar": "work/character/avatar.webp",
+        "avatarAlt": "صورة زهراء رسن"
+      },
+      "photos": {
+        "left": {
+          "src": "work/m/mazajk-05-kitchen.jpg",
+          "chip": "Mazajak"
+        },
+        "right": {
+          "src": "work/m/auib-03-laptop-desk.jpg",
+          "chip": "AUIB"
+        }
+      },
+      "facts": {
+        "est": "منذ 2021",
+        "projects": "+50 مشروع"
+      }
+    },
+    "services": {
+      "label": {
+        "brand": "ZR®",
+        "section": "الخدمات /",
+        "jp": "SERVICES"
+      },
+      "headline": "شنو أسوّي",
+      "sub": "أربع مجالات أشتغل بيها، وهدف واحد: منتج يفهمه المستخدم من أول نظرة ويرجعله.",
+      "note": {
+        "title": "متاحة لمشاريع المنتجات",
+        "body": "راسلني على الواتساب ونبدأ من فكرتك."
+      },
+      "cta": {
+        "label": "خلّينا نحجي عن مشروعك",
+        "href": "https://wa.me/9647744115884"
+      },
+      "facts": {
+        "top": {
+          "muted": "أشتغل من",
+          "strong": "بغداد"
+        },
+        "bottom": {
+          "muted": "أسرع تصميم",
+          "strong": "أقل من نص يوم"
+        }
+      },
+      "services": [
+        {
+          "index": "01.",
+          "jp": "PRODUCT DESIGN",
+          "title": "تصميم تطبيقات ومنصات",
+          "description": "أصمّم تجربة المستخدم والواجهات من البحث والـ Persona لحد البروتوتايب والاختبار. اشتغلت على تطبيقات تسوق وطيران وحجوزات يستخدمها الناس يومياً بالعراق.",
+          "price": "مزاجك · فلاي بغداد · مسواك",
+          "tags": [
+            "UX Research",
+            "Wireframes",
+            "User Flow",
+            "UI Design",
+            "Prototyping",
+            "A/B Testing"
+          ],
+          "images": [
+            "work/services/s1a.mp4",
+            "work/services/s1b.mp4"
+          ]
+        },
+        {
+          "index": "02.",
+          "jp": "AI WEBSITES",
+          "title": "مواقع تُبنى بالذكاء الاصطناعي",
+          "description": "بنيت Skills خاصة بي: أكتب Prompt واحد، تسألني عن تفاصيل المشروع، وتبني موقع متكامل بـ Design System متناسق وأنيميشن احترافي. أعرض على الكلاينت أكثر من نسخة بيوم واحد بدل أسبوع.",
+          "price": "أول وحدة بالعراق بنت موقع كامل لكلاينت بالذكاء الاصطناعي",
+          "tags": [
+            "Claude",
+            "Prompt Engineering",
+            "Skills",
+            "Next.js",
+            "3D بالكود",
+            "Motion"
+          ],
+          "images": [
+            "work/services/s2a.mp4",
+            "work/services/s2b.mp4"
+          ]
+        },
+        {
+          "index": "03.",
+          "jp": "BRAND & IDENTITY",
+          "title": "هوية بصرية وأنظمة تصميم",
+          "description": "من الشعار والألوان والخطوط لحد الـ Design System والـ Design DNA: القواعد اللي لازم تكون موجودة بأي شي جديد ينبني للبراند، حتى يبقى كل شي متناسق ومعروف.",
+          "price": "",
+          "tags": [
+            "Visual Identity",
+            "Logo",
+            "Design System",
+            "Design DNA",
+            "Typography",
+            "Brand Guide"
+          ],
+          "images": [
+            "work/services/s3a.mp4",
+            "work/services/s3b.mp4"
+          ]
+        },
+        {
+          "index": "04.",
+          "jp": "TEACHING",
+          "title": "تعليم وورش التصميم",
+          "description": "أشارك اللي تعلمته من شغل المنتجات الحقيقي بورش عملية وجلسات مراجعة تصميم: من التفكير بتجربة المستخدم لحد بناء الواجهات واستخدام الذكاء الاصطناعي بالشغل اليومي.",
+          "price": "",
+          "tags": [
+            "Workshops",
+            "Design Review",
+            "UX Thinking",
+            "Figma",
+            "AI for Designers"
+          ],
+          "images": [
+            "work/services/s4a.mp4",
+            "work/services/s4b.mp4"
+          ]
+        }
+      ]
+    },
+    "portfolio": {
+      "header": {
+        "label": "الأعمال /",
+        "jp": "CASE STUDIES",
+        "intro": [
+          "قصص منتجات صمّمتها وبنيتها،",
+          "من الفكرة لحد ما وصلت للناس."
+        ],
+        "heading": "أعمال مختارة.",
+        "years": "2021-26"
+      },
+      "cases": [
+        {
+          "index": "01.",
+          "year": "2026",
+          "client": "Shipyard",
+          "title": "مستقبل المدفوعات الآمنة",
+          "tags": [
+            "Web Design",
+            "Fintech",
+            "3D"
+          ],
+          "image": "work/m/case-shipyard.jpg",
+          "alt": "موقع Shipyard للمدفوعات الآمنة",
+          "video": "work/m/case-shipyard.mp4",
+          "href": "#portfolio",
+          "position": "50% 50%"
+        },
+        {
+          "index": "02.",
+          "year": "2025",
+          "client": "مزاجك",
+          "title": "المنتجات تبين من أول شاشة",
+          "tags": [
+            "App Redesign",
+            "UI/UX",
+            "Delivery"
+          ],
+          "image": "work/m/wide-mazajak.jpg",
+          "alt": "تطبيق مزاجك للتسوق والتوصيل",
+          "video": "work/m/case-mazajak.mp4",
+          "href": "https://www.instagram.com/reel/DPP7YpcCvHQ/",
+          "position": "50% 50%"
+        },
+        {
+          "index": "03.",
+          "year": "2025",
+          "client": "iBank",
+          "title": "خدمات مصرفية أسرع وأوضح",
+          "tags": [
+            "Fintech",
+            "Mobile App",
+            "UI/UX"
+          ],
+          "image": "work/m/wide-ibank.jpg",
+          "alt": "تطبيق الخدمات المصرفية",
+          "href": "#portfolio",
+          "position": "50% 50%"
+        },
+        {
+          "index": "04.",
+          "year": "2026",
+          "client": "مجرات",
+          "title": "أربع مجرات، منظومة واحدة للتعلّم",
+          "tags": [
+            "منصة تعليمية",
+            "UI/UX",
+            "Frontend",
+            "Motion"
+          ],
+          "image": "work/m/wide-majarat.jpg",
+          "alt": "موقع مجرات",
+          "video": "work/m/case-majarat.mp4",
+          "href": "https://majarat.online/",
+          "position": "50% 50%"
+        },
+        {
+          "index": "05.",
+          "year": "2026",
+          "client": "المربع",
+          "title": "نبني على أساس واضح",
+          "tags": [
+            "Brand Identity",
+            "Web Design",
+            "Frontend"
+          ],
+          "image": "work/m/wide-almurabba.jpg",
+          "alt": "موقع المربع للعمران والتطوير",
+          "href": "#portfolio",
+          "position": "50% 50%",
+          "video": "work/m/case-almurabba.mp4"
+        },
+        {
+          "index": "06.",
+          "year": "2024—26",
+          "client": "أوبن كود",
+          "title": "الصناعة تلتقي بالكود",
+          "tags": [
+            "Web Design",
+            "Next.js",
+            "3D Mascot"
+          ],
+          "image": "work/m/case-opencode.jpg",
+          "alt": "موقع شركة أوبن كود",
+          "video": "work/m/case-opencode.mp4",
+          "href": "https://www.instagram.com/p/C1o3SJut3zs/",
+          "position": "50% 50%"
+        }
+      ],
+      "noise": "assets/width256height256_images_JEXWGoePoUiV1n4YylT8Fc37Us.jpg",
+      "more": {
+        "label": "أعمال أخرى /",
+        "jp": "MORE CASES",
+        "intro": [
+          "التصميم مو بس شكل،",
+          "الاستراتيجية والنظام مهمين بنفس الدرجة."
+        ],
+        "button": {
+          "label": "كل الأعمال على انستغرام",
+          "href": "https://www.instagram.com/zahraa_resen/"
+        },
+        "latest": {
+          "label": "آخر شغل",
+          "value": "أكتوبر 2026"
+        },
+        "rows": [
+          {
+            "index": "01.",
+            "year": "2025",
+            "title": "4SEASONS: خدمات المخيمات المتكاملة",
+            "subtitle": "موقع شركة · Web Design",
+            "image": "work/m/case-4seasons.jpg",
+            "href": "#portfolio"
+          },
+          {
+            "index": "02.",
+            "year": "2025",
+            "title": "نجمة: متجر أزياء",
+            "subtitle": "تطبيق تسوق · منتجات، مقاسات وألوان",
+            "image": "work/m/najma-01-dual-floating.jpg",
+            "href": "#portfolio"
+          },
+          {
+            "index": "03.",
+            "year": "2025",
+            "title": "نلعب NL33: متجر إكسسوارات الألعاب",
+            "subtitle": "متجر إلكتروني · Web Design",
+            "image": "work/m/nal3ab-03-laptop-rock.jpg",
+            "href": "#portfolio"
+          },
+          {
+            "index": "04.",
+            "year": "2025",
+            "title": "PipPip: اكتشف المطاعم القريبة",
+            "subtitle": "تطبيق · خريطة وعجلة حظ للعروض",
+            "image": "work/m/pippip-05-dual-purple.jpg",
+            "href": "#portfolio"
+          },
+          {
+            "index": "05.",
+            "year": "2025",
+            "title": "نقاط البيع الذكية",
+            "subtitle": "تطبيق دفع · بطاقة، NFC و QR",
+            "image": "work/m/ibank-05-pos-marble.jpg",
+            "href": "#portfolio"
+          },
+          {
+            "index": "06.",
+            "year": "2024",
+            "title": "حجوزات: كل شركات السفر بمكان واحد",
+            "subtitle": "موقع حجوزات · Web Design",
+            "image": "work/case-hujozat.jpg",
+            "href": "https://www.instagram.com/reel/C-nSrRlNxBz/"
+          }
+        ]
+      },
+      "showreel": {
+        "label": "Showreel /",
+        "jp": "2024 ‒ 26",
+        "intro": [
+          "سريع، واضح، وجريء:",
+          "مواقع ومنتجات صمّمتها، بلقطات قصيرة."
+        ],
+        "heading": "Showreel",
+        "years": "2024 ‒ 26",
+        "title": "Showreel ©26",
+        "date": "2024-26",
+        "duration": "0:54",
+        "durationLabel": "دقيقة من الشغل",
+        "videos": [
+          "work/m/reel-4seasons-a.mp4",
+          "work/m/reel-mazajak-a.mp4",
+          "work/m/reel-opencode-b.mp4",
+          "work/m/reel-shipyard.mp4",
+          "work/m/reel-majarat-a.mp4",
+          "work/m/reel-opencode-a.mp4",
+          "work/m/reel-mazajak-b.mp4",
+          "work/m/reel-ring.mp4",
+          "work/m/reel-4seasons-b.mp4"
+        ]
+      },
+      "awards": [
+        {
+          "years": "2025",
+          "count": "",
+          "title": "مزاجك منشور على المتاجر",
+          "subtitle": "App Store و Google Play",
+          "logo": "app",
+          "description": "إعادة تصميم كاملة لتطبيق تسوق: ثيم متناسق مع البراند، واجهة أوضح، وأكبر عدد من المنتجات على الشاشة."
+        },
+        {
+          "years": "2025",
+          "count": "100/312",
+          "title": "بوت كامب مجرات",
+          "subtitle": "مشارك انقبلوا بأول دفعة",
+          "logo": "majarat",
+          "description": "أسّست بوت كامب يعلّم الـ UI/UX مع الذكاء الاصطناعي من الصفر. وصلنا 312 طلب وانقبل 100 مشارك."
+        },
+        {
+          "years": "2023",
+          "count": "2x",
+          "title": "شهادات LinkedIn Learning",
+          "subtitle": "Interaction Design · UX for AI",
+          "logo": "hub",
+          "description": "Interaction Design for the Web، و UX for AI: Design Practices for AI Developers. الاثنين بآب 2023."
+        }
+      ],
+      "marquee": "zahraa"
+    },
+    "strategy": {
+      "label": {
+        "brand": "ZR®",
+        "dash": "‒",
+        "title": "طريقة الشغل /",
+        "jp": "PROCESS"
+      },
+      "headline": [
+        "من الفكرة",
+        "للإطلاق"
+      ],
+      "sub": "من أول سؤال عن المشروع لحد ما يصير منتج حي، والذكاء الاصطناعي شريك بكل خطوة.",
+      "quote": {
+        "lines": [
+          "أحس صارت عندي إمكانيات لا محدودة.",
+          "أسوي أكثر من نسخة وأعرضها على الكلاينت، وهو يختار وأفهم ذوقه وتوجّهه."
+        ],
+        "name": "زهراء رسن",
+        "role": "Senior Design Engineer",
+        "company": "zahraa®",
+        "avatar": "work/character/avatar.webp",
+        "avatarAlt": "صورة زهراء رسن"
+      },
+      "steps": [
+        {
+          "n": "01.",
+          "tag": "Discovery",
+          "title": [
+            "أفهم",
+            "التحدي الحقيقي"
+          ],
+          "body": "أبدأ بالأسئلة: منو الجمهور؟ شنو هدف الكلاينت التجاري؟ وين المستخدم يضيع بالتصميم الحالي؟",
+          "cell": {
+            "col": 0,
+            "row": 0
+          }
+        },
+        {
+          "n": "02.",
+          "tag": "Directions",
+          "title": [
+            "أكثر من نسخة",
+            "بنفس اليوم"
+          ],
+          "body": "بالـ AI أطلّع أكثر من اتجاه وأعرضها على الكلاينت. يختار، وأنا أفهم ذوقه قبل ما نضيّع أيام.",
+          "cell": {
+            "col": 1,
+            "row": 0
+          }
+        },
+        {
+          "n": "03.",
+          "tag": "Design System",
+          "title": [
+            "أبني النظام",
+            "مو بس الشاشات"
+          ],
+          "body": "Design DNA وDesign System وأنيميشن مدروس، حتى كل صفحة جديدة تطلع متناسقة وبدون أخطاء.",
+          "cell": {
+            "col": 1,
+            "row": 1
+          }
+        },
+        {
+          "n": "04.",
+          "tag": "Launch",
+          "title": [
+            "أنفّذ",
+            "وأطلق"
+          ],
+          "body": "أبني الموقع بالكود أو أسلّم ملفات جاهزة للمطورين، وأتابع بعد الإطلاق لأن التسليم مو النهاية.",
+          "cell": {
+            "col": 0,
+            "row": 1
+          }
+        }
+      ]
+    },
+    "reviews": {
+      "logos": [
+        "logos/auib.svg",
+        "logos/acquaintech.svg",
+        "logos/opencode.svg",
+        "logos/thechance.svg",
+        "logos/alnabaa.svg",
+        "logos/majarat.svg",
+        "logos/almorabaa.svg",
+        "logos/hujozat.svg",
+        "logos/mazajak.svg",
+        "logos/flybaghdad.svg",
+        "logos/miswag.svg",
+        "logos/hub200.svg"
+      ]
+    },
+    "features": {
+      "label": {
+        "brand": "ZR®",
+        "dash": "‒",
+        "title": "المميزات /",
+        "jp": "HOW I WORK"
+      },
+      "intro": "نظرة أقرب على طريقة التفكير والأدوات والخبرة اللي تشكّل شغلي.",
+      "heading": "شلون أشتغل",
+      "cardA": {
+        "brand": "zahraa®",
+        "people": [
+          {
+            "src": "work/character/avatar.webp",
+            "alt": "زهراء رسن"
+          },
+          {
+            "src": "work/m/auib-01-laptop-rock.jpg",
+            "alt": "AUIB"
+          },
+          {
+            "src": "work/m/ibank-03-hand.jpg",
+            "alt": "iBank"
+          },
+          {
+            "src": "work/m/najma-01-dual-floating.jpg",
+            "alt": "نجمة"
+          }
+        ],
+        "title": "أحوّل التعقيد إلى وضوح",
+        "text": "الداشبورد والتطبيقات المليانة معلومات تحدي حقيقي: شلون تعرض كمية كبيرة من المعلومات بطريقة بسيطة بدون ما تبخس حق أي معلومة.",
+        "items": [
+          {
+            "label": "UX قبل الـ UI دائماً"
+          },
+          {
+            "label": "Design DNA لكل براند",
+            "info": "القواعد اللي لازم تكون موجودة بأي شي جديد أبنيه، حتى يبقى البراند متناسق مهما كبر."
+          },
+          {
+            "label": "تصاميم تنفع كل المستخدمين"
+          }
+        ]
+      },
+      "cardB": {
+        "marquee": "zahraa®",
+        "phone": "work/abstract/hand-phone.webp",
+        "stats": {
+          "conversion": {
+            "value": "+10",
+            "label": "شركات وجهات"
+          },
+          "response": {
+            "value": "أسرع تصميم",
+            "label": "أقل من نص يوم"
+          },
+          "retention": {
+            "value": "+50",
+            "label": "مشروع منشور"
+          }
+        }
+      },
+      "cardC": {
+        "label": "[ الخبرة ]",
+        "jp": "EXPERIENCE",
+        "number": "+5",
+        "lines": [
+          "سنوات",
+          "خبرة",
+          "بالمنتجات"
+        ]
+      },
+      "cardD": {
+        "title": "البساطة",
+        "jp": "SIMPLICITY",
+        "image": "work/abstract/torus.webp",
+        "headline": [
+          "تعقيد أقل.",
+          "وضوح أكثر."
+        ],
+        "text": "أشيل الخطوات الزايدة من رحلة المستخدم حتى يوصل لهدفه أسرع وبدون ما يفكر."
+      },
+      "cardE": {
+        "title": "بوت كامب مجرات",
+        "image": "work/m/majarat-01-cosmic.jpg",
+        "mom": "100 من 312",
+        "counter": [
+          3,
+          2
+        ],
+        "text": "نسبة القبول بأول دفعة من بوت كامب مجرات"
+      },
+      "cardF": {
+        "brand": "zahraa®",
+        "image": "work/abstract/wheel.webp",
+        "pill": {
+          "value": "AI Skills",
+          "label": "Prompt واحد"
+        },
+        "title": "تنفيذ أسرع",
+        "text": "انتظار أقل. نسخ أكثر.\nوتقدّم واضح من أول يوم."
+      }
+    },
+    "pricing": {
+      "label": {
+        "brand": "ZR®",
+        "dash": "‒",
+        "title": "التعاون /",
+        "jp": "WORK WITH ME"
+      },
+      "intro": "ثلاث طرق للشغل سوا: هوية، تصميم، أو تصميم وتنفيذ كامل، لأن أصمّم وأبني بنفسي.",
+      "headline": "طرق التعاون",
+      "toggle": {
+        "monthly": "تصميم",
+        "annual": "تصميم + تنفيذ",
+        "save": ""
+      },
+      "annualFactor": 1,
+      "cta": {
+        "label": "ابدأ مشروعك",
+        "href": "https://wa.me/9647744115884"
+      },
+      "footnote": "السعر يتحدد بعد ما نفهم المشروع",
+      "plans": [
+        {
+          "index": "01.",
+          "jp": "BRANDING",
+          "name": "هوية بصرية وبراندينج",
+          "description": "لبراند جديد أو يحتاج يتجدد: هوية كاملة بقواعد واضحة يمشي عليها الفريق لسنين.",
+          "monthly": 0,
+          "included": [
+            {
+              "label": "شعار وصيغه المختلفة"
+            },
+            {
+              "label": "Design DNA",
+              "note": "القواعد الثابتة للبراند: الشبكة، النِسَب، الألوان، والخطوط، حتى أي شي جديد يطلع من نفس العائلة."
+            },
+            {
+              "label": "ألوان وخطوط وأنماط"
+            },
+            {
+              "label": "دليل الهوية",
+              "note": "ملف مرجعي للفريق والمطبعة والسوشيال ميديا."
+            }
+          ],
+          "extras": [
+            "قوالب سوشيال ميديا",
+            "ملفات طباعة"
+          ],
+          "timeframe": "المدة حسب حجم الهوية",
+          "extrasTone": "dark"
+        },
+        {
+          "index": "02.",
+          "jp": "DESIGN",
+          "name": "تصميم منتج",
+          "description": "لتطبيق أو موقع أو منصة: تجربة مستخدم واضحة وواجهات جاهزة تسلّمها لفريق التطوير مالتك.",
+          "monthly": 0,
+          "included": [
+            {
+              "label": "بحث وتحليل المستخدم"
+            },
+            {
+              "label": "User Flow و Wireframes",
+              "note": "خريطة كاملة لرحلة المستخدم قبل أي لون أو خط، حتى نتأكد إن كل خطوة لها سبب."
+            },
+            {
+              "label": "واجهات UI بثيم فاتح وداكن"
+            },
+            {
+              "label": "Design System بالـ Figma"
+            },
+            {
+              "label": "تنفيذ بالكود",
+              "inactive": true
+            }
+          ],
+          "extras": [
+            "Prototype تفاعلي",
+            "تسليم منظّم للمطورين"
+          ],
+          "timeframe": "المدة حسب حجم المشروع",
+          "extrasTone": "light"
+        },
+        {
+          "index": "03.",
+          "jp": "DESIGN ENGINEERING",
+          "name": "تصميم وتنفيذ",
+          "popular": true,
+          "description": "من الفكرة لحد منتج حي: أصمّم وأبني بنفسي، فالتصميم يوصل للكود بدون ما يضيع منه شي.",
+          "monthly": 0,
+          "included": [
+            {
+              "label": "كل مراحل التصميم"
+            },
+            {
+              "label": "Design System بالكود",
+              "note": "نفس المكونات بالـ Figma وبالكود، فكل صفحة جديدة تطلع متناسقة."
+            },
+            {
+              "label": "تنفيذ بـ Next.js"
+            },
+            {
+              "label": "أنيميشن و 3D",
+              "note": "حركة مدروسة وعناصر ثلاثية الأبعاد مبنية بالكود، بدون أدوات خارجية."
+            }
+          ],
+          "extras": [
+            "متجاوب لكل الشاشات",
+            "سرعة وأداء عالي",
+            "متابعة بعد الإطلاق"
+          ],
+          "timeframe": "أسرع بكثير مع الذكاء الاصطناعي",
+          "extrasTone": "red"
+        }
+      ]
+    },
+    "timeline": {
+      "label": {
+        "brand": "ZR®",
+        "dash": "‒",
+        "title": "الخبرة /",
+        "jp": "EXPERIENCE"
+      },
+      "headline": "المسيرة",
+      "sub": [
+        "خمس سنوات من الوظائف والفريلانس،",
+        "وشنو كان دوري بكل مرحلة."
+      ],
+      "quote": "إعادة تصميم التطبيقات أو المواقع دوم أعتبرها فرصة، حتى نتعلم من أخطاء التصميم السابق ونستمر بتحسين تطبيقاتنا المستقبلية.",
+      "author": {
+        "name": "زهراء رسن",
+        "role": "Senior Design Engineer",
+        "company": "zahraa®",
+        "avatar": "work/character/avatar.webp",
+        "avatarAlt": "صورة زهراء رسن"
+      },
+      "items": [
+        {
+          "year": "2021–23",
+          "title": "مجموعة النبع\nProduct Designer",
+          "text": "أول وظيفة بدوام كامل كمصممة منتجات ببغداد، وبنفس الوقت بديت شغل الفريلانس كـ UX/UI Designer وهو مستمر لهسه.",
+          "image": "work/miswag.jpg",
+          "logo": {
+            "ar": "مجموعة النبع",
+            "en": "Al Nabaa",
+            "mark": "N"
+          }
+        },
+        {
+          "year": "2023–24",
+          "title": "أوبن كود\nUI UX Lead",
+          "text": "بديت Product Designer وصرت UI UX Lead: تصميم منتجات الشركة وموقعها، وقيادة شغل الـ UI/UX مع فريق التطوير.",
+          "image": "work/opencode.jpg",
+          "logo": {
+            "ar": "أوبن كود",
+            "en": "Open Code",
+            "mark": "OC"
+          }
+        },
+        {
+          "year": "2024–25",
+          "title": "Acquaintech\nUX Designer",
+          "text": "صمّمت تطبيقات توصيل B2C للسائق والزبون. صارت أسهل بالتنقل وقلّت الحاجة للتدريب والدعم، بـ Journey Mapping واختبار مع مستخدمين حقيقيين.",
+          "image": "work/m/mazajk-03-dual-floating.jpg",
+          "logo": {
+            "ar": "أكوينتك",
+            "en": "Acquaintech"
+          }
+        },
+        {
+          "year": "2024",
+          "title": "الجامعة الأمريكية في بغداد\nSenior UX Designer",
+          "text": "Senior UX Designer بدوام كامل، وبنفس الوقت أسّست مجرات: منصة وبوت كامب يعلّم الـ UI/UX مع الذكاء الاصطناعي.",
+          "image": "work/m/auib-01-laptop-rock.jpg",
+          "logo": {
+            "ar": "الجامعة الأمريكية في بغداد",
+            "en": "AUIB",
+            "mark": "AU"
+          }
+        },
+        {
+          "year": "2025",
+          "title": "الشركة الوطنية وشركة عبر الفرات\nUX Designer",
+          "text": "تصميم تجربة المستخدم والواجهات لمنتجات الشركتين، من فهم احتياج المستخدم لحد تسليم تصاميم جاهزة للتطوير.",
+          "image": "work/abstract/ui-flow.jpg",
+          "logo": {
+            "ar": "عبر الفرات",
+            "en": "Transforat",
+            "mark": "TF"
+          }
+        }
+      ]
+    },
+    "facts": {
+      "bg": "rgb(240,43,66)",
+      "facts": [
+        {
+          "index": "01.",
+          "label": [
+            "مشروع صمّمته",
+            "وأطلقته"
+          ],
+          "value": "+50"
+        },
+        {
+          "index": "02.",
+          "label": [
+            "سنوات خبرة",
+            "بتصميم المنتجات"
+          ],
+          "value": "+5"
+        },
+        {
+          "index": "03.",
+          "label": [
+            "شركات وجهات",
+            "اشتغلت وياها"
+          ],
+          "value": "+10"
+        }
+      ]
+    },
+    "team": {
+      "label": {
+        "brand": "ZR®",
+        "dash": "‒",
+        "title": "الوجوه /",
+        "jp": "BEHIND THE WORK"
+      },
+      "intro": "مصممة، مطوّرة، معلّمة، ومحبة للفضاء. كل وجه يضيف شي للشغل.",
+      "headline": "خلف zahraa.",
+      "est": {
+        "year": "2021",
+        "label": "منذ"
+      },
+      "social": [
+        {
+          "name": "Instagram",
+          "href": "https://www.instagram.com/zahraa_resen/"
+        }
+      ],
+      "members": [
+        {
+          "name": "المصممة",
+          "role": "UX Designer · AUIB",
+          "quote": "التحدي الحقيقي إنك توفّر واجهة جميلة ومختلفة، بس المستخدم ما يحسها غريبة عليه.",
+          "src": "work/flybaghdad.jpg",
+          "alt": "إعادة تصميم تطبيق فلاي بغداد",
+          "position": "50% 50%"
+        },
+        {
+          "name": "المطوّرة",
+          "role": "Software Developer",
+          "quote": "بنيت Skills تفكر بعقليتي، حتى تختصر عليّ ساعات من الشغل وتنطيني نقطة بداية قوية.",
+          "src": "work/cube.jpg",
+          "alt": "مكعب ثلاثي الأبعاد مبني بالكود",
+          "position": "50% 50%"
+        },
+        {
+          "name": "المعلّمة",
+          "role": "مؤسِّسة مجرات",
+          "quote": "اللي نشوفه هسه ما يمثل 10٪ من الإمكانيات اللي ممكن نوصلها بالـ AI.",
+          "src": "work/dna.jpg",
+          "alt": "ريل Design DNA",
+          "position": "50% 30%"
+        },
+        {
+          "name": "محبة الفضاء",
+          "role": "Design × Engineering",
+          "quote": "بالمجرة تحس إنك مو من قطعة أرض معيّنة، بل من المجموعة الشمسية كلها.",
+          "src": "work/majarat.jpg",
+          "alt": "مجرات",
+          "position": "50% 40%"
+        }
+      ]
+    },
+    "quote": {
+      "label": {
+        "brand": "ZR®",
+        "dash": "‒",
+        "title": "ما أؤمن بيه /",
+        "jp": "WHAT I BELIEVE"
+      },
+      "headline": [
+        "مو بس المنتج مهم،",
+        "طريقة عرضه هي اللي",
+        "تجذب العميل."
+      ],
+      "sub": [
+        "المنتج القوي يستحق يظهر بصورة أقوى: تصميم يعكس قيمته",
+        "ويحوّل الزيارة إلى اهتمام."
+      ],
+      "author": {
+        "name": "زهراء رسن",
+        "role": "Senior Design Engineer",
+        "at": "ومؤسِّسة",
+        "company": "Monova"
+      },
+      "signature": "Zahraa."
+    },
+    "faq": {
+      "label": {
+        "brand": "ZR®",
+        "section": "أسئلة /",
+        "jp": "FAQ"
+      },
+      "headline": "أجوبة سريعة.",
+      "sub": "الأسئلة اللي تهمك قبل ما نبدأ: الوقت، السعر، وشلون نشتغل سوا.",
+      "note": {
+        "title": "عندك سؤال ثاني؟",
+        "body": "راسلني على الواتساب وأجاوبك."
+      },
+      "cta": {
+        "label": "اسألني",
+        "href": "https://wa.me/9647744115884"
+      },
+      "items": [
+        {
+          "number": "01.",
+          "question": "شنو تحتاجين مني حتى نبدأ؟",
+          "answer": "فكرة عن هدف المشروع ومنو المستخدم، وأي شي موجود عندك: هوية، تصميم قديم، أو مواقع وتطبيقات تعجبك. إذا الفكرة بعدها مو واضحة، نوضحها سوا بأول جلسة.",
+          "images": []
+        },
+        {
+          "number": "02.",
+          "question": "شكد ياخذ المشروع وقت؟",
+          "answer": "حسب حجم المشروع: عدد الصفحات أو الشاشات، وإذا يحتاج تنفيذ بالكود لو بس تصميم. بعد ما نحجي عن التفاصيل أعطيك جدول زمني واضح بمراحل، حتى تعرف شنو راح يوصلك ومتى.",
+          "images": []
+        },
+        {
+          "number": "03.",
+          "question": "شلون يتحدد السعر؟",
+          "answer": "السعر يتحدد بعد ما أفهم المشروع: حجمه، المطلوب منه، وإذا يشمل تنفيذ. أرسلك عرض واضح بكل اللي داخل بالسعر قبل ما نبدأ، فما تتفاجأ بأي شي بعدين.",
+          "images": []
+        },
+        {
+          "number": "04.",
+          "question": "شلون تمشي مراحل الشغل؟ وأكدر أتابع؟",
+          "answer": "نبدأ بفهم المشروع والمستخدم، بعدها أعرض عليك أكثر من اتجاه تصميم تختار منه، وبعدها أكمل التصاميم وأسلّمها. بكل مرحلة تشوف الشغل وتعطي رأيك، فالنتيجة النهائية تطلع مثل ما تريد.",
+          "images": []
+        },
+        {
+          "number": "05.",
+          "question": "إذا ما عجبني التصميم، نكدر نعدّل؟",
+          "answer": "أكيد. التعديلات جزء من الشغل، ولهذا أعرض أكثر من اتجاه بالبداية حتى نتفق على الذوق قبل ما ندخل بالتفاصيل. نتفق على طريقة التعديلات من أول يوم حتى يكون كلشي واضح.",
+          "images": []
+        },
+        {
+          "number": "06.",
+          "question": "شنو أستلم بالنهاية؟",
+          "answer": "حسب الاتفاق: ملفات Figma منظّمة مع Design System وPrototype جاهزة للمطورين، أو موقع جاهز بالكود ومنشور. وأبقى وياك بعد التسليم إذا احتجت أي شي.",
+          "images": []
+        },
+        {
+          "number": "07.",
+          "question": "تشتغلين ويا شركات برا بغداد أو برا العراق؟",
+          "answer": "إي، أشتغل حضوري ببغداد أو عن بعد ويا أي مكان. الاجتماعات أونلاين، والتسليم والمتابعة كلها تمشي بسهولة.",
+          "images": []
+        }
+      ]
+    },
+    "blog": {
+      "label": {
+        "brand": "ZR®",
+        "section": "مقالات /",
+        "jp": "NOTES"
+      },
+      "intro": "أفكار ودروس عن التصميم والـ UX والذكاء الاصطناعي، أنشرها بالعربي على انستغرام.",
+      "headline": "مقالات.",
+      "cta": {
+        "label": "كل المنشورات",
+        "href": "https://www.instagram.com/zahraa_resen/"
+      },
+      "facts": {
+        "muted": "تُنشر",
+        "strong": "كل أسبوع"
+      },
+      "posts": [
+        {
+          "href": "https://www.instagram.com/p/CryO_vRN3xn/",
+          "image": "work/post-accessibility.jpg",
+          "imageAlt": "",
+          "date": "3 مايو 2023",
+          "readTime": "Accessibility",
+          "title": "أكثر من مليار شخص يعيشون مع إعاقة. هل تطبيقك يناسبهم؟",
+          "excerpt": "مفهوم لازم كل UX Designer يعرفه: التكنولوجيا المساعدة لذوي الإعاقة (AT).",
+          "author": {
+            "name": "زهراء رسن",
+            "avatar": "work/character/avatar.webp"
+          }
+        },
+        {
+          "href": "https://www.instagram.com/p/C-H2W_PNFrE/",
+          "image": "work/post-ai-ui.jpg",
+          "imageAlt": "",
+          "date": "1 أغسطس 2024",
+          "readTime": "Generative UI",
+          "title": "واجهة تختلف لكل مستخدم: الـ UI المولّد بالذكاء الاصطناعي",
+          "excerpt": "تخيل تفتح انستغرام وتظهرلك واجهة غير اللي تظهر لأخوك. زين، واحنا كمصممين وين نروح؟",
+          "author": {
+            "name": "زهراء رسن",
+            "avatar": "work/character/avatar.webp"
+          }
+        },
+        {
+          "href": "https://www.instagram.com/p/C9u9IaWt0Qp/",
+          "image": "work/post-dashboard.jpg",
+          "imageAlt": "",
+          "date": "22 يوليو 2024",
+          "readTime": "Dashboard UX",
+          "title": "أهم النصائح لعمل داشبورد",
+          "excerpt": "التحدي: شلون تعرض كمية كبيرة من المعلومات بطريقة بسيطة بدون ما تبخس حق أي معلومة.",
+          "author": {
+            "name": "زهراء رسن",
+            "avatar": "work/character/avatar.webp"
+          }
+        }
+      ]
+    },
+    "subscribe": {
+      "label": {
+        "brand": "ZR®",
+        "section": "بوت كامب /",
+        "jp": "MAJARAT"
+      },
+      "headline": "مجرات",
+      "sub": "بوت كامب وكورس UI/UX مع الذكاء الاصطناعي أسّسته وأعلّم بيه: من الفكرة، للتصميم، للتنفيذ، لبناء مشروع حقيقي.",
+      "form": {
+        "label": "سجّل بالدفعة الجاية",
+        "placeholder": "majarat.online",
+        "thanks": ""
+      },
+      "legal": {
+        "prefix": "أول دفعة: 100 مشارك من 312 طلب ·",
+        "privacy": {
+          "label": "@majarat.uiux",
+          "href": "https://www.instagram.com/majarat.uiux/"
+        },
+        "terms": {
+          "label": "majarat.online",
+          "href": "https://majarat.online/"
+        }
+      }
+    },
+    "contact": {
+      "label": {
+        "brand": "ZR®",
+        "section": "تواصل /",
+        "jp": "CONTACT"
+      },
+      "intro": "سواء تبدأ من الصفر أو تطوّر منتج موجود، خلّينا نحوّل فكرتك لشي حي.",
+      "headline": "خلّينا نحجي",
+      "slots": {
+        "prefix": "متاحة",
+        "for": "لـ",
+        "month": "المشاريع",
+        "total": 5,
+        "taken": 5,
+        "left": "DM",
+        "suffix": "راسلني"
+      },
+      "contacts": {
+        "title": "تواصل",
+        "phone": {
+          "label": "+964 774 411 5884",
+          "href": "https://wa.me/9647744115884"
+        },
+        "email": {
+          "label": "@zahraa_resen",
+          "href": "https://www.instagram.com/zahraa_resen/"
+        },
+        "address": "بغداد، العراق · Hybrid / Remote"
+      },
+      "socials": {
+        "title": "حساباتي",
+        "items": [
+          {
+            "name": "LinkedIn",
+            "href": "https://www.linkedin.com/in/zahraa-resen/"
+          },
+          {
+            "name": "Instagram",
+            "href": "https://www.instagram.com/zahraa_resen/"
+          },
+          {
+            "name": "Majarat",
+            "href": "https://www.instagram.com/majarat.uiux/"
+          }
+        ]
+      },
+      "localTime": {
+        "label": "الوقت ببغداد:",
+        "timeZone": "Asia/Baghdad"
+      },
+      "form": {
+        "fields": [
+          {
+            "id": "name",
+            "label": "الاسم",
+            "type": "text",
+            "placeholder": "اسمك",
+            "half": true
+          },
+          {
+            "id": "phone",
+            "label": "الهاتف",
+            "type": "tel",
+            "placeholder": "07xx xxx xxxx",
+            "half": true
+          },
+          {
+            "id": "email",
+            "label": "الإيميل",
+            "type": "email",
+            "placeholder": "you@company.com",
+            "half": false
+          }
+        ],
+        "message": {
+          "id": "message",
+          "label": "الرسالة",
+          "placeholder": "كلّي عن مشروعك"
+        },
+        "button": "أرسل على واتساب",
+        "thanks": "انفتحت محادثة الواتساب ورسالتك جاهزة، بس اضغط إرسال."
+      },
+      "legal": {
+        "prefix": "الرسالة تنفتح بمحادثة",
+        "privacy": {
+          "label": "واتساب",
+          "href": "https://wa.me/9647744115884"
+        },
+        "terms": {
+          "label": "@zahraa_resen",
+          "href": "https://www.instagram.com/zahraa_resen/"
+        }
+      },
+      "hours": {
+        "title": "الحالة",
+        "rows": [
+          {
+            "days": "متاحة:",
+            "time": "لمشاريع المنتجات"
+          },
+          {
+            "days": "التواصل:",
+            "time": "واتساب وانستغرام"
+          }
+        ]
+      }
+    },
+    "footer": {
+      "closing": {
+        "line": "خلّينا نبني شي حلو سوا.",
+        "sub": "عندك فكرة أو منتج يحتاج تصميم وتنفيذ؟ راسلني ونحجي عنه.",
+        "cta": {
+          "label": "ابدأ مشروعك",
+          "href": "https://wa.me/9647744115884"
+        },
+        "status": "متاحة للمشاريع"
+      },
+      "nav": {
+        "title": "التنقّل",
+        "links": [
+          {
+            "label": "من أنا",
+            "href": "#hello"
+          },
+          {
+            "label": "الأعمال",
+            "href": "#portfolio"
+          },
+          {
+            "label": "الخدمات",
+            "href": "#services"
+          },
+          {
+            "label": "تواصل",
+            "href": "#contact"
+          }
+        ]
+      },
+      "contact": {
+        "title": "تواصل",
+        "phone": {
+          "label": "+964 774 411 5884",
+          "href": "https://wa.me/9647744115884"
+        },
+        "instagram": {
+          "label": "@zahraa_resen",
+          "href": "https://www.instagram.com/zahraa_resen/"
+        },
+        "location": "بغداد، العراق"
+      },
+      "social": {
+        "title": "حساباتي",
+        "links": [
+          {
+            "label": "LinkedIn",
+            "href": "https://www.linkedin.com/in/zahraa-resen/"
+          },
+          {
+            "label": "Instagram",
+            "href": "https://www.instagram.com/zahraa_resen/"
+          },
+          {
+            "label": "Majarat",
+            "href": "https://majarat.online/"
+          }
+        ]
+      },
+      "signature": {
+        "avatar": "work/character/avatar.webp",
+        "name": "زهراء رسن",
+        "role": "Senior Design Engineer"
+      },
+      "copyright": {
+        "years": "2021–26",
+        "rights": "كل الحقوق محفوظة"
+      },
+      "backToTop": "للأعلى"
+    }
+  }
+}
