@@ -1,0 +1,1527 @@
+{
+ "version": 1,
+ "sections": {
+  "nav": {
+   "logo": {
+    "name": "zahraa",
+    "tagline": "Design × Engineering",
+    "href": "#top"
+   },
+   "nav": [
+    {
+     "label": "About",
+     "href": "#hello"
+    },
+    {
+     "label": "Work",
+     "href": "#portfolio",
+     "count": "12"
+    },
+    {
+     "label": "Experience",
+     "href": "#timeline"
+    },
+    {
+     "label": "Majarat",
+     "href": "https://majarat.online/"
+    },
+    {
+     "label": "Book a call",
+     "href": "#consult"
+    },
+    {
+     "label": "Start a project",
+     "href": "https://wa.me/9647744115884"
+    }
+   ],
+   "menu": {
+    "navigationTitle": "Navigation",
+    "navigation": [
+     {
+      "label": "About",
+      "href": "#hello"
+     },
+     {
+      "label": "Work",
+      "href": "#portfolio",
+      "count": "12"
+     },
+     {
+      "label": "Services",
+      "href": "#services"
+     },
+     {
+      "label": "Experience",
+      "href": "#timeline"
+     },
+     {
+      "label": "Book a call",
+      "href": "#consult"
+     },
+     {
+      "label": "Contact",
+      "href": "#contact"
+     }
+    ],
+    "contactsTitle": "Contact",
+    "contacts": {
+     "instagram": {
+      "label": "@zahraa_resen",
+      "href": "https://ig.me/m/zahraa_resen"
+     },
+     "website": {
+      "label": "majarat.online",
+      "href": "https://majarat.online/"
+     },
+     "address": [
+      "Baghdad, Iraq",
+      "Available · Hybrid / Remote"
+     ]
+    },
+    "socials": [
+     {
+      "label": "LinkedIn",
+      "href": "https://www.linkedin.com/in/zahraa-resen/"
+     },
+     {
+      "label": "Instagram",
+      "href": "https://www.instagram.com/zahraa_resen/"
+     },
+     {
+      "label": "Majarat",
+      "href": "https://www.instagram.com/majarat.uiux/"
+     },
+     {
+      "label": "Monova",
+      "href": "https://www.instagram.com/monova_agency/"
+     }
+    ],
+    "cta": {
+     "label": "Start a project",
+     "href": "https://wa.me/9647744115884"
+    },
+    "legal": [
+     {
+      "label": "Instagram",
+      "href": "https://www.instagram.com/zahraa_resen/"
+     },
+     {
+      "label": "Majarat",
+      "href": "https://majarat.online/"
+     }
+    ],
+    "copyright": "2021-26© Zahraa Resen"
+   },
+   "fixedBottom": {
+    "prefix": "Course",
+    "middle": "with",
+    "price": "Majarat",
+    "href": "https://majarat.online/"
+   }
+  },
+  "hero": {
+   "variant": "badge",
+   "badge": {
+    "avatar": "work/character/avatar.webp",
+    "name": "Zahraa Resen",
+    "role": "Senior Design Engineer",
+    "available": "Available for projects",
+    "headline": "From idea to working code.",
+    "text": "I design digital products people get at first glance, and build them with AI, from idea to code.",
+    "stats": [
+     {
+      "value": "+50",
+      "label": "projects"
+     },
+     {
+      "value": "+5",
+      "label": "years of experience"
+     },
+     {
+      "value": "+10",
+      "label": "companies & teams"
+     }
+    ],
+    "primary": {
+     "label": "Start a project",
+     "href": "https://wa.me/9647744115884"
+    },
+    "secondary": {
+     "label": "My work",
+     "href": "#portfolio"
+    },
+    "location": "Baghdad, Iraq",
+    "brand": "zahraa®"
+   },
+   "tear": {
+    "video": "work/character/tear.mp4",
+    "poster": "work/character/tear-end.webp",
+    "roles": [
+     {
+      "label": "Senior"
+     },
+     {
+      "label": "Design Engineer",
+      "accent": true
+     }
+    ],
+    "stack": [
+     "UX",
+     "Figma",
+     "Code"
+    ],
+    "headline": "From idea to working code.",
+    "text": "I start with the user: I design the experience, build the design system, and turn it into code myself with AI. For me, design doesn’t end in Figma.",
+    "primary": {
+     "label": "Start a project",
+     "href": "https://wa.me/9647744115884"
+    },
+    "secondary": {
+     "label": "See my work",
+     "href": "#portfolio"
+    }
+   },
+   "years": "2021-26©",
+   "slots": {
+    "prefix": "Available",
+    "muted": "for",
+    "month": "product projects",
+    "filled": 5,
+    "total": 5,
+    "left": "DM",
+    "leftLabel": "Message me"
+   },
+   "services": [
+    {
+     "n": "01.",
+     "label": "UI/UX design for apps and websites"
+    },
+    {
+     "n": "02.",
+     "label": "AI-built websites"
+    },
+    {
+     "n": "03.",
+     "label": "Design teaching and Arabic content"
+    }
+   ],
+   "wordmark": "zahraa",
+   "headline": "From idea to working code.",
+   "description": [
+    "Senior Design Engineer. I design digital products people get at first glance,",
+    "with clear flows and real results, and build them with AI from idea to code."
+   ],
+   "cta": {
+    "label": "Start a project",
+    "href": "https://wa.me/9647744115884"
+   },
+   "clients": {
+    "avatars": [
+     {
+      "src": "work/character/avatar.webp",
+      "alt": "Zahraa Resen"
+     },
+     {
+      "src": "work/m/auib-01-laptop-rock.webp",
+      "alt": "AUIB"
+     },
+     {
+      "src": "work/m/mazajk-01-hand-magenta.webp",
+      "alt": "Mazajak"
+     },
+     {
+      "src": "work/m/ibank-01-dual-floating.webp",
+      "alt": "iBank"
+     }
+    ],
+    "more": "11+",
+    "rating": "5+ years",
+    "basedOn": "projects for",
+    "reviews": "companies and digital products"
+   },
+   "social": [
+    {
+     "name": "LinkedIn",
+     "href": "https://www.linkedin.com/in/zahraa-resen/"
+    },
+    {
+     "name": "Instagram",
+     "href": "https://www.instagram.com/zahraa_resen/"
+    },
+    {
+     "name": "Majarat",
+     "href": "https://www.instagram.com/majarat.uiux/"
+    }
+   ],
+   "stay": {
+    "muted": "Let’s",
+    "label": "keep in touch"
+   },
+   "video": "work/hero-loop.mp4",
+   "grain": "assets/width256height256_images_JEXWGoePoUiV1n4YylT8Fc37Us.webp"
+  },
+  "hello": {
+   "label": {
+    "brand": "ZR®",
+    "dash": "‒",
+    "title": "About /",
+    "jp": "WHO I AM"
+   },
+   "headline": [
+    "I’m Zahraa, designer",
+    "& developer turning ideas",
+    "into live sites with AI."
+   ],
+   "quote": "Five years across design, UX and product development, with roles at Open Code, Al-Wataniya and the American University of Iraq, Baghdad. Today I focus on UX strategy and AI-assisted product design: building clear, easy experiences that turn ideas into products people love to use and come back to.",
+   "author": {
+    "name": "Zahraa Resen",
+    "role": "Senior Design Engineer",
+    "at": "& founder of",
+    "company": "Monova",
+    "avatar": "work/character/avatar.webp",
+    "avatarAlt": "Portrait of Zahraa Resen"
+   },
+   "photos": {
+    "left": {
+     "src": "work/m/mazajk-05-kitchen.webp",
+     "chip": "Mazajak"
+    },
+    "right": {
+     "src": "work/m/auib-03-laptop-desk.webp",
+     "chip": "AUIB"
+    }
+   },
+   "facts": {
+    "est": "Since 2021",
+    "projects": "50+ projects"
+   }
+  },
+  "services": {
+   "label": {
+    "brand": "ZR®",
+    "section": "Services /",
+    "jp": "WHAT I OFFER"
+   },
+   "headline": "What I do",
+   "sub": "Four areas, one goal: a product users understand at first glance and keep coming back to.",
+   "note": {
+    "title": "Available for product projects",
+    "body": "Message me on WhatsApp and we’ll start from your idea."
+   },
+   "cta": {
+    "label": "Let’s talk about your project",
+    "href": "https://wa.me/9647744115884"
+   },
+   "facts": {
+    "top": {
+     "muted": "Based in",
+     "strong": "Baghdad"
+    },
+    "bottom": {
+     "muted": "Fastest design",
+     "strong": "under half a day"
+    }
+   },
+   "services": [
+    {
+     "index": "01.",
+     "jp": "PRODUCT DESIGN",
+     "title": "Apps & platforms",
+     "description": "I design the user experience and interfaces, from research and personas to prototypes and testing. I’ve worked on shopping, airline and booking apps people in Iraq use every day.",
+     "price": "Mazajak · Fly Baghdad · Miswag",
+     "tags": [
+      "UX Research",
+      "Wireframes",
+      "User Flow",
+      "UI Design",
+      "Prototyping",
+      "A/B Testing"
+     ],
+     "images": [
+      "work/services/s1a.mp4",
+      "work/services/s1b.mp4"
+     ]
+    },
+    {
+     "index": "02.",
+     "jp": "AI WEBSITES",
+     "title": "AI-built websites",
+     "description": "I built my own AI skills: one prompt, a few questions about the project, and out comes a complete site with a consistent design system and polished motion. Clients see several directions in a day instead of a week.",
+     "price": "The first in Iraq to ship a full client website built with AI",
+     "tags": [
+      "Claude",
+      "Prompt Engineering",
+      "Skills",
+      "Next.js",
+      "3D in code",
+      "Motion"
+     ],
+     "images": [
+      "work/services/s2a.mp4",
+      "work/services/s2b.mp4"
+     ]
+    },
+    {
+     "index": "03.",
+     "jp": "BRAND & IDENTITY",
+     "title": "Brand identity & design systems",
+     "description": "From logo, colour and type to the design system and Design DNA: the rules every new piece of the brand follows, so everything stays consistent and recognisable.",
+     "price": "",
+     "tags": [
+      "Visual Identity",
+      "Logo",
+      "Design System",
+      "Design DNA",
+      "Typography",
+      "Brand Guide"
+     ],
+     "images": [
+      "work/services/s3a.mp4",
+      "work/services/s3b.mp4"
+     ]
+    },
+    {
+     "index": "04.",
+     "jp": "TEACHING",
+     "title": "Teaching & workshops",
+     "description": "I share what real product work taught me through hands-on workshops and design reviews: from UX thinking to building interfaces and using AI in everyday work.",
+     "price": "",
+     "tags": [
+      "Workshops",
+      "Design Review",
+      "UX Thinking",
+      "Figma",
+      "AI for Designers"
+     ],
+     "images": [
+      "work/services/s4a.mp4",
+      "work/services/s4b.mp4"
+     ]
+    }
+   ]
+  },
+  "portfolio": {
+   "header": {
+    "label": "Work /",
+    "jp": "CASE STUDIES",
+    "intro": [
+     "Stories of products I designed and built,",
+     "from the first idea to people’s hands."
+    ],
+    "heading": "Selected work.",
+    "years": "2021-26"
+   },
+   "cases": [
+    {
+     "index": "01.",
+     "year": "2026",
+     "client": "Shipyard",
+     "title": "The future of secure payments",
+     "tags": [
+      "Web Design",
+      "Fintech",
+      "3D"
+     ],
+     "image": "work/m/case-shipyard.webp",
+     "alt": "Shipyard secure payments website",
+     "video": "work/m/case-shipyard.mp4",
+     "href": "#portfolio",
+     "position": "50% 50%"
+    },
+    {
+     "index": "02.",
+     "year": "2025",
+     "client": "Mazajak",
+     "title": "Products that show from the first screen",
+     "tags": [
+      "App Redesign",
+      "UI/UX",
+      "Delivery"
+     ],
+     "image": "work/m/wide-mazajak.webp",
+     "alt": "Mazajak shopping and delivery app",
+     "video": "work/m/case-mazajak.mp4",
+     "href": "https://www.instagram.com/reel/DPP7YpcCvHQ/",
+     "position": "50% 50%"
+    },
+    {
+     "index": "03.",
+     "year": "2025",
+     "client": "iBank",
+     "title": "Faster, clearer banking",
+     "tags": [
+      "Fintech",
+      "Mobile App",
+      "UI/UX"
+     ],
+     "image": "work/m/wide-ibank.webp",
+     "alt": "Banking app",
+     "href": "#portfolio",
+     "position": "50% 50%"
+    },
+    {
+     "index": "04.",
+     "year": "2026",
+     "client": "Majarat",
+     "title": "Four galaxies, one learning system",
+     "tags": [
+      "Learning platform",
+      "UI/UX",
+      "Frontend",
+      "Motion"
+     ],
+     "image": "work/m/wide-majarat.webp",
+     "alt": "Majarat website",
+     "video": "work/m/case-majarat.mp4",
+     "href": "https://majarat.online/",
+     "position": "50% 50%"
+    },
+    {
+     "index": "05.",
+     "year": "2026",
+     "client": "Al Murabba",
+     "title": "Building on a clear foundation",
+     "tags": [
+      "Brand Identity",
+      "Web Design",
+      "Frontend"
+     ],
+     "image": "work/m/wide-almurabba.webp",
+     "alt": "Al Murabba real-estate website",
+     "href": "#portfolio",
+     "position": "50% 50%",
+     "video": "work/m/case-almurabba.mp4"
+    },
+    {
+     "index": "06.",
+     "year": "2024—26",
+     "client": "Open Code",
+     "title": "Where industry meets code",
+     "tags": [
+      "Web Design",
+      "Next.js",
+      "3D Mascot"
+     ],
+     "image": "work/m/case-opencode.webp",
+     "alt": "Open Code company website",
+     "video": "work/m/case-opencode.mp4",
+     "href": "https://www.instagram.com/p/C1o3SJut3zs/",
+     "position": "50% 50%"
+    }
+   ],
+   "noise": "assets/width256height256_images_JEXWGoePoUiV1n4YylT8Fc37Us.webp",
+   "more": {
+    "label": "More work /",
+    "jp": "MORE CASES",
+    "intro": [
+     "Design isn’t just looks,",
+     "strategy and systems matter just as much."
+    ],
+    "button": {
+     "label": "All work on Instagram",
+     "href": "https://www.instagram.com/zahraa_resen/"
+    },
+    "latest": {
+     "label": "Latest work",
+     "value": "October 2026"
+    },
+    "rows": [
+     {
+      "index": "01.",
+      "year": "2025",
+      "title": "4SEASONS: full-service camping",
+      "subtitle": "Company website · Web Design",
+      "image": "work/m/case-4seasons.webp",
+      "href": "#portfolio"
+     },
+     {
+      "index": "02.",
+      "year": "2025",
+      "title": "Najma: fashion store",
+      "subtitle": "Shopping app · products, sizes and colours",
+      "image": "work/m/najma-01-dual-floating.webp",
+      "href": "#portfolio"
+     },
+     {
+      "index": "03.",
+      "year": "2025",
+      "title": "Nal3ab NL33: gaming accessories store",
+      "subtitle": "Online store · Web Design",
+      "image": "work/m/nal3ab-03-laptop-rock.webp",
+      "href": "#portfolio"
+     },
+     {
+      "index": "04.",
+      "year": "2025",
+      "title": "PipPip: discover nearby restaurants",
+      "subtitle": "App · map and a lucky wheel for deals",
+      "image": "work/m/pippip-05-dual-purple.webp",
+      "href": "#portfolio"
+     },
+     {
+      "index": "05.",
+      "year": "2025",
+      "title": "Smart point of sale",
+      "subtitle": "Payments app · card, NFC and QR",
+      "image": "work/m/ibank-05-pos-marble.webp",
+      "href": "#portfolio"
+     },
+     {
+      "index": "06.",
+      "year": "2024",
+      "title": "Hujozat: every travel agency in one place",
+      "subtitle": "Booking website · Web Design",
+      "image": "work/case-hujozat.webp",
+      "href": "https://www.instagram.com/reel/C-nSrRlNxBz/"
+     }
+    ]
+   },
+   "showreel": {
+    "label": "Showreel /",
+    "jp": "2024 ‒ 26",
+    "intro": [
+     "Fast, clear and bold:",
+     "sites and products I designed, in short clips."
+    ],
+    "heading": "Showreel",
+    "years": "2024 ‒ 26",
+    "title": "Showreel ©26",
+    "date": "2024-26",
+    "duration": "0:54",
+    "durationLabel": "minute of work",
+    "videos": [
+     "work/m/reel-4seasons-a.mp4",
+     "work/m/reel-mazajak-a.mp4",
+     "work/m/reel-opencode-b.mp4",
+     "work/m/reel-shipyard.mp4",
+     "work/m/reel-majarat-a.mp4",
+     "work/m/reel-opencode-a.mp4",
+     "work/m/reel-mazajak-b.mp4",
+     "work/m/reel-ring.mp4",
+     "work/m/reel-4seasons-b.mp4"
+    ]
+   },
+   "awards": [
+    {
+     "years": "2025",
+     "count": "",
+     "title": "Mazajak live on the stores",
+     "subtitle": "App Store & Google Play",
+     "logo": "app",
+     "description": "A full redesign of a shopping app: an on-brand theme, a clearer interface, and more products on every screen."
+    },
+    {
+     "years": "2025",
+     "count": "100/312",
+     "title": "Majarat Bootcamp",
+     "subtitle": "participants accepted in the first cohort",
+     "logo": "majarat",
+     "description": "I founded a bootcamp teaching UI/UX with AI from scratch. We received 312 applications and accepted 100 participants."
+    },
+    {
+     "years": "2023",
+     "count": "2x",
+     "title": "LinkedIn Learning certificates",
+     "subtitle": "Interaction Design · UX for AI",
+     "logo": "hub",
+     "description": "Interaction Design for the Web, and UX for AI: Design Practices for AI Developers. Both in August 2023."
+    }
+   ],
+   "marquee": "zahraa"
+  },
+  "strategy": {
+   "label": {
+    "brand": "ZR®",
+    "dash": "‒",
+    "title": "Process /",
+    "jp": "STEP BY STEP"
+   },
+   "headline": [
+    "From idea",
+    "to launch"
+   ],
+   "sub": "From the first question about the project to a live product, with AI as a partner at every step.",
+   "quote": {
+    "lines": [
+     "It feels like my possibilities are now limitless.",
+     "I make several versions and show them to the client; they pick, and I learn their taste and direction."
+    ],
+    "name": "Zahraa Resen",
+    "role": "Senior Design Engineer",
+    "company": "zahraa®",
+    "avatar": "work/character/avatar.webp",
+    "avatarAlt": "Portrait of Zahraa Resen"
+   },
+   "steps": [
+    {
+     "n": "01.",
+     "tag": "Discovery",
+     "title": [
+      "Understand",
+      "the real challenge"
+     ],
+     "body": "I start with questions: who is the audience? What’s the business goal? Where do users get lost in the current design?",
+     "cell": {
+      "col": 0,
+      "row": 0
+     }
+    },
+    {
+     "n": "02.",
+     "tag": "Directions",
+     "title": [
+      "Several directions",
+      "the same day"
+     ],
+     "body": "With AI I produce several directions and show them to the client. They choose, and I learn their taste before we lose days.",
+     "cell": {
+      "col": 1,
+      "row": 0
+     }
+    },
+    {
+     "n": "03.",
+     "tag": "Design System",
+     "title": [
+      "Build the system,",
+      "not just screens"
+     ],
+     "body": "Design DNA, a design system and considered motion, so every new page comes out consistent and error-free.",
+     "cell": {
+      "col": 1,
+      "row": 1
+     }
+    },
+    {
+     "n": "04.",
+     "tag": "Launch",
+     "title": [
+      "Build",
+      "and launch"
+     ],
+     "body": "I build the site in code or hand over developer-ready files, and stay on after launch, because handover isn’t the end.",
+     "cell": {
+      "col": 0,
+      "row": 1
+     }
+    }
+   ]
+  },
+  "reviews": {
+   "logos": [
+    "logos/auib.svg",
+    "logos/acquaintech.svg",
+    "logos/opencode.svg",
+    "logos/thechance.svg",
+    "logos/alnabaa.svg",
+    "logos/majarat.svg",
+    "logos/almorabaa.svg",
+    "logos/hujozat.svg",
+    "logos/mazajak.svg",
+    "logos/flybaghdad.svg",
+    "logos/miswag.svg",
+    "logos/hub200.svg"
+   ]
+  },
+  "features": {
+   "label": {
+    "brand": "ZR®",
+    "dash": "‒",
+    "title": "How I work /",
+    "jp": "PRINCIPLES"
+   },
+   "intro": "A closer look at the thinking, tools and experience behind my work.",
+   "heading": "How I work",
+   "cardA": {
+    "brand": "zahraa®",
+    "people": [
+     {
+      "src": "work/character/avatar.webp",
+      "alt": "Zahraa Resen"
+     },
+     {
+      "src": "work/m/auib-01-laptop-rock.webp",
+      "alt": "AUIB"
+     },
+     {
+      "src": "work/m/ibank-03-hand.webp",
+      "alt": "iBank"
+     },
+     {
+      "src": "work/m/najma-01-dual-floating.webp",
+      "alt": "Najma"
+     }
+    ],
+    "title": "I turn complexity into clarity",
+    "text": "Dashboards and data-heavy apps are a real challenge: showing a lot of information simply, without shortchanging any of it.",
+    "items": [
+     {
+      "label": "UX before UI, always"
+     },
+     {
+      "label": "Design DNA for every brand",
+      "info": "The rules every new piece I build must follow, so the brand stays consistent however much it grows."
+     },
+     {
+      "label": "Designs that work for every user"
+     }
+    ]
+   },
+   "cardB": {
+    "marquee": "zahraa®",
+    "phone": "work/abstract/hand-phone.webp",
+    "stats": {
+     "conversion": {
+      "value": "+10",
+      "label": "companies & teams"
+     },
+     "response": {
+      "value": "Fastest design",
+      "label": "under half a day"
+     },
+     "retention": {
+      "value": "+50",
+      "label": "shipped projects"
+     }
+    }
+   },
+   "cardC": {
+    "label": "[ Experience ]",
+    "jp": "SINCE 2021",
+    "number": "+5",
+    "lines": [
+     "years",
+     "of product",
+     "experience"
+    ]
+   },
+   "cardD": {
+    "title": "Simplicity",
+    "jp": "LESS IS MORE",
+    "image": "work/abstract/torus.webp",
+    "headline": [
+     "Less complexity.",
+     "More clarity."
+    ],
+    "text": "I remove extra steps from the user journey so people reach their goal faster, without having to think."
+   },
+   "cardE": {
+    "title": "Majarat Bootcamp",
+    "image": "work/m/nal3ab-01-gaming-desk.webp",
+    "mom": "100 of 312",
+    "counter": [
+     3,
+     2
+    ],
+    "text": "Acceptance rate in Majarat Bootcamp’s first cohort"
+   },
+   "cardF": {
+    "brand": "zahraa®",
+    "image": "work/abstract/wheel.webp",
+    "pill": {
+     "value": "AI Skills",
+     "label": "One prompt"
+    },
+    "title": "Faster delivery",
+    "text": "Less waiting. More versions.\nClear progress from day one."
+   }
+  },
+  "pricing": {
+   "label": {
+    "brand": "ZR®",
+    "dash": "‒",
+    "title": "Work with me /",
+    "jp": "ENGAGEMENTS"
+   },
+   "intro": "Three ways to work together: identity, design, or full design and build, because I design and build it myself.",
+   "headline": "Ways to work together",
+   "toggle": {
+    "monthly": "Design",
+    "annual": "Design + build",
+    "save": ""
+   },
+   "annualFactor": 1,
+   "cta": {
+    "label": "Start a project",
+    "href": "https://wa.me/9647744115884"
+   },
+   "footnote": "Pricing is set once we understand the project",
+   "plans": [
+    {
+     "index": "01.",
+     "jp": "BRANDING",
+     "name": "Brand identity",
+     "description": "For a new brand or one that needs a refresh: a complete identity with clear rules your team can follow for years.",
+     "monthly": 0,
+     "included": [
+      {
+       "label": "Logo and its variations"
+      },
+      {
+       "label": "Design DNA",
+       "note": "The brand’s fixed rules: grid, proportions, colours and type, so anything new belongs to the same family."
+      },
+      {
+       "label": "Colours, type and patterns"
+      },
+      {
+       "label": "Brand guidelines",
+       "note": "A reference for your team, printers and social media."
+      }
+     ],
+     "extras": [
+      "Social media templates",
+      "Print files"
+     ],
+     "timeframe": "Timeline depends on the scope of the identity",
+     "extrasTone": "dark"
+    },
+    {
+     "index": "02.",
+     "jp": "DESIGN",
+     "name": "Product design",
+     "description": "For an app, website or platform: a clear user experience and ready interfaces to hand to your dev team.",
+     "monthly": 0,
+     "included": [
+      {
+       "label": "User research and analysis"
+      },
+      {
+       "label": "User flows & wireframes",
+       "note": "A complete map of the user journey before any colour or type, so every step has a reason."
+      },
+      {
+       "label": "UI in light and dark themes"
+      },
+      {
+       "label": "Design system in Figma"
+      },
+      {
+       "label": "Built in code",
+       "inactive": true
+      }
+     ],
+     "extras": [
+      "Interactive prototype",
+      "Organised developer handoff"
+     ],
+     "timeframe": "Timeline depends on the project’s scope",
+     "extrasTone": "light"
+    },
+    {
+     "index": "03.",
+     "jp": "DESIGN ENGINEERING",
+     "name": "Design & build",
+     "popular": true,
+     "description": "From idea to a live product: I design and build it myself, so nothing gets lost between design and code.",
+     "monthly": 0,
+     "included": [
+      {
+       "label": "Every design stage"
+      },
+      {
+       "label": "Design system in code",
+       "note": "The same components in Figma and in code, so every new page stays consistent."
+      },
+      {
+       "label": "Built with Next.js"
+      },
+      {
+       "label": "Motion & 3D",
+       "note": "Considered motion and 3D elements built in code, with no external tools."
+      }
+     ],
+     "extras": [
+      "Responsive on every screen",
+      "Fast and high-performing",
+      "Post-launch support"
+     ],
+     "timeframe": "Much faster with AI",
+     "extrasTone": "red"
+    }
+   ]
+  },
+  "consult": {
+   "label": {
+    "brand": "ZR®",
+    "dash": "‒",
+    "title": "Consultation /",
+    "jp": "1:1 SESSION"
+   },
+   "headline": "Book a call",
+   "sub": "A full hour with me on your product or your work. You leave with clear next steps.",
+   "audiences": [
+    {
+     "title": "For companies",
+     "points": [
+      "A UX review of your product or website",
+      "Where users get lost, and how to fix it",
+      "A clear plan for design or redesign"
+     ]
+    },
+    {
+     "title": "For designers",
+     "points": [
+      "Portfolio or project review",
+      "Career guidance and working with companies",
+      "How to use AI in your work"
+     ]
+    }
+   ],
+   "open": "Book your consultation",
+   "close": "Hide details",
+   "price": {
+    "value": "100,000",
+    "currency": "IQD",
+    "per": "per hour"
+   },
+   "steps": [
+    {
+     "n": "01",
+     "title": "Pick a time",
+     "text": "Choose the slot that suits you."
+    },
+    {
+     "n": "02",
+     "title": "Pay",
+     "text": "Via Qi Card or Zain Cash to this number."
+    },
+    {
+     "n": "03",
+     "title": "Send proof of payment",
+     "text": "Send a screenshot of the transfer on WhatsApp and your slot is confirmed."
+    }
+   ],
+   "payment": {
+    "title": "Paying from inside Iraq",
+    "methods": "Qi Card · Zain Cash",
+    "number": "07744115884",
+    "copy": "Copy",
+    "copied": "Copied",
+    "abroad": "Outside Iraq? Message me and I’ll send a payment link."
+   },
+   "bookingUrl": "https://cal.com/zahraa-resen-mqwgpm/consultation",
+   "cta": {
+    "book": "Book the slot",
+    "bookMessage": "Hi Zahraa, I’d like to book a one-hour consultation.",
+    "proof": "Send proof of payment",
+    "proofMessage": "Hi Zahraa, I’ve paid for the consultation. Here’s the proof of payment:",
+    "abroadMessage": "Hi Zahraa, I’d like to book a consultation from outside Iraq. Could you send a payment link?"
+   }
+  },
+  "timeline": {
+   "label": {
+    "brand": "ZR®",
+    "dash": "‒",
+    "title": "Experience /",
+    "jp": "CAREER"
+   },
+   "headline": "Career",
+   "sub": [
+    "Five years of full-time roles and freelance,",
+    "and what I did at each stage."
+   ],
+   "quote": "I always see a redesign as an opportunity: to learn from the old design’s mistakes and keep making future products better.",
+   "author": {
+    "name": "Zahraa Resen",
+    "role": "Senior Design Engineer",
+    "company": "zahraa®",
+    "avatar": "work/character/avatar.webp",
+    "avatarAlt": "Portrait of Zahraa Resen"
+   },
+   "items": [
+    {
+     "year": "2021–23",
+     "title": "Al Nabaa Group\nProduct Designer",
+     "text": "My first full-time role as a product designer in Baghdad. At the same time I started freelancing as a UX/UI designer, which I still do today.",
+     "image": "work/miswag.webp",
+     "logo": {
+      "ar": "Al Nabaa",
+      "en": "Product Designer",
+      "mark": "N"
+     }
+    },
+    {
+     "year": "2023–24",
+     "title": "Open Code\nUI UX Lead",
+     "text": "Started as a product designer and became UI UX Lead: designing the company’s products and website, and leading UI/UX work with the engineering team.",
+     "image": "work/opencode.webp",
+     "logo": {
+      "ar": "Open Code",
+      "en": "UI UX Lead",
+      "mark": "OC"
+     }
+    },
+    {
+     "year": "2024–25",
+     "title": "Acquaintech\nUX Designer",
+     "text": "Designed B2C delivery apps for drivers and customers. Through journey mapping and testing with real users, they became easier to navigate and needed less training and support.",
+     "image": "work/m/mazajk-03-dual-floating.webp",
+     "logo": {
+      "ar": "UX Designer",
+      "en": "Acquaintech"
+     }
+    },
+    {
+     "year": "2024",
+     "title": "American University of Iraq, Baghdad\nSenior UX Designer",
+     "text": "Full-time Senior UX Designer, while founding Majarat: a platform and bootcamp teaching UI/UX with AI.",
+     "image": "work/m/auib-01-laptop-rock.webp",
+     "logo": {
+      "ar": "AUIB",
+      "en": "Senior UX Designer",
+      "mark": "AU"
+     }
+    },
+    {
+     "year": "2025",
+     "title": "Al-Wataniya & Transforat\nUX Designer",
+     "text": "UX and interface design for both companies’ products, from understanding user needs to handing over development-ready designs.",
+     "image": "work/abstract/ui-flow.webp",
+     "logo": {
+      "ar": "Transforat",
+      "en": "UX Designer",
+      "mark": "TF"
+     }
+    }
+   ]
+  },
+  "facts": {
+   "bg": "rgb(240,43,66)",
+   "facts": [
+    {
+     "index": "01.",
+     "label": [
+      "projects designed",
+      "and launched"
+     ],
+     "value": "+50"
+    },
+    {
+     "index": "02.",
+     "label": [
+      "years of experience",
+      "in product design"
+     ],
+     "value": "+5"
+    },
+    {
+     "index": "03.",
+     "label": [
+      "companies & teams",
+      "I’ve worked with"
+     ],
+     "value": "+10"
+    }
+   ]
+  },
+  "team": {
+   "label": {
+    "brand": "ZR®",
+    "dash": "‒",
+    "title": "Faces /",
+    "jp": "BEHIND THE WORK"
+   },
+   "intro": "Designer, developer, teacher and space lover. Each side adds something to the work.",
+   "headline": "Behind zahraa.",
+   "est": {
+    "year": "2021",
+    "label": "Since"
+   },
+   "social": [
+    {
+     "name": "Instagram",
+     "href": "https://www.instagram.com/zahraa_resen/"
+    }
+   ],
+   "members": [
+    {
+     "name": "The designer",
+     "role": "UX Designer · AUIB",
+     "quote": "The real challenge is making an interface beautiful and different without it feeling foreign to the user.",
+     "src": "work/flybaghdad.webp",
+     "alt": "Fly Baghdad app redesign",
+     "position": "50% 50%"
+    },
+    {
+     "name": "The developer",
+     "role": "Software Developer",
+     "quote": "I built AI skills that think the way I do, saving me hours and giving me a strong starting point.",
+     "src": "work/cube.webp",
+     "alt": "A 3D cube built in code",
+     "position": "50% 50%"
+    },
+    {
+     "name": "The teacher",
+     "role": "Founder of Majarat",
+     "quote": "What we see today isn’t even 10% of what we can reach with AI.",
+     "src": "work/dna.webp",
+     "alt": "Design DNA reel",
+     "position": "50% 30%"
+    },
+    {
+     "name": "The space lover",
+     "role": "Design × Engineering",
+     "quote": "In a galaxy you feel you’re not from one patch of land, but from the whole solar system.",
+     "src": "work/majarat.webp",
+     "alt": "Majarat",
+     "position": "50% 40%"
+    }
+   ]
+  },
+  "quote": {
+   "label": {
+    "brand": "ZR®",
+    "dash": "‒",
+    "title": "What I believe /",
+    "jp": "MANIFESTO"
+   },
+   "headline": [
+    "It’s not just the product,",
+    "it’s how you present it",
+    "that wins the customer."
+   ],
+   "sub": [
+    "A strong product deserves an even stronger presence: design that reflects its value",
+    "and turns a visit into interest."
+   ],
+   "author": {
+    "name": "Zahraa Resen",
+    "role": "Senior Design Engineer",
+    "at": "& founder of",
+    "company": "Monova"
+   },
+   "signature": "Zahraa."
+  },
+  "faq": {
+   "label": {
+    "brand": "ZR®",
+    "section": "FAQ /",
+    "jp": "GOOD TO KNOW"
+   },
+   "headline": "Quick answers.",
+   "sub": "What you’ll want to know before we start: timing, pricing, and how we work together.",
+   "note": {
+    "title": "Another question?",
+    "body": "Message me on WhatsApp and I’ll answer."
+   },
+   "cta": {
+    "label": "Ask me",
+    "href": "https://wa.me/9647744115884"
+   },
+   "items": [
+    {
+     "number": "01.",
+     "question": "What do you need from me to get started?",
+     "answer": "An idea of the project’s goal and who the users are, plus anything you already have: a brand, an old design, or sites and apps you like. If the idea isn’t clear yet, we’ll shape it together in the first session.",
+     "images": []
+    },
+    {
+     "number": "02.",
+     "question": "How long does a project take?",
+     "answer": "It depends on the scope: the number of pages or screens, and whether it needs to be built in code or just designed. Once we’ve talked through the details, I’ll give you a clear, phased timeline so you know what you’ll get and when.",
+     "images": []
+    },
+    {
+     "number": "03.",
+     "question": "How is pricing decided?",
+     "answer": "Pricing is set once I understand the project: its size, what it needs to do, and whether it includes the build. You get a clear proposal listing everything included before we start, so there are no surprises later.",
+     "images": []
+    },
+    {
+     "number": "04.",
+     "question": "What are the stages, and can I follow along?",
+     "answer": "We start by understanding the project and its users, then I show you several design directions to choose from, then I complete and deliver the designs. You see the work and give feedback at every stage, so the result turns out the way you want.",
+     "images": []
+    },
+    {
+     "number": "05.",
+     "question": "What if I don’t like the design, can we change it?",
+     "answer": "Of course. Revisions are part of the work, which is why I show several directions at the start so we agree on taste before going into detail. We agree on how revisions work from day one, so everything is clear.",
+     "images": []
+    },
+    {
+     "number": "06.",
+     "question": "What do I receive at the end?",
+     "answer": "Depending on what we agree: organised Figma files with a design system and prototype, ready for developers, or a finished website built in code and live. And I stay with you after handover if you need anything.",
+     "images": []
+    },
+    {
+     "number": "07.",
+     "question": "Do you work with companies outside Baghdad or Iraq?",
+     "answer": "Yes. I work on-site in Baghdad or remotely with anyone, anywhere. Meetings are online, and delivery and follow-up run smoothly.",
+     "images": []
+    }
+   ]
+  },
+  "blog": {
+   "label": {
+    "brand": "ZR®",
+    "section": "Notes /",
+    "jp": "JOURNAL"
+   },
+   "intro": "Ideas and lessons on design, UX and AI, published in Arabic on Instagram.",
+   "headline": "Notes.",
+   "cta": {
+    "label": "All posts",
+    "href": "https://www.instagram.com/zahraa_resen/"
+   },
+   "facts": {
+    "muted": "Published",
+    "strong": "every week"
+   },
+   "posts": [
+    {
+     "href": "https://www.instagram.com/p/CryO_vRN3xn/",
+     "image": "work/post-accessibility.webp",
+     "imageAlt": "",
+     "date": "May 3, 2023",
+     "readTime": "Accessibility",
+     "title": "Over a billion people live with a disability. Does your app work for them?",
+     "excerpt": "A concept every UX designer should know: assistive technology (AT).",
+     "author": {
+      "name": "Zahraa Resen",
+      "avatar": "work/character/avatar.webp"
+     }
+    },
+    {
+     "href": "https://www.instagram.com/p/C-H2W_PNFrE/",
+     "image": "work/post-ai-ui.webp",
+     "imageAlt": "",
+     "date": "August 1, 2024",
+     "readTime": "Generative UI",
+     "title": "An interface for every user: AI-generated UI",
+     "excerpt": "Imagine opening Instagram and seeing a different interface from your brother’s. So where does that leave us as designers?",
+     "author": {
+      "name": "Zahraa Resen",
+      "avatar": "work/character/avatar.webp"
+     }
+    },
+    {
+     "href": "https://www.instagram.com/p/C9u9IaWt0Qp/",
+     "image": "work/post-dashboard.webp",
+     "imageAlt": "",
+     "date": "July 22, 2024",
+     "readTime": "Dashboard UX",
+     "title": "Key tips for designing a dashboard",
+     "excerpt": "The challenge: showing a lot of information simply, without shortchanging any of it.",
+     "author": {
+      "name": "Zahraa Resen",
+      "avatar": "work/character/avatar.webp"
+     }
+    }
+   ]
+  },
+  "subscribe": {
+   "label": {
+    "brand": "ZR®",
+    "section": "Bootcamp /",
+    "jp": "MAJARAT"
+   },
+   "headline": "Majarat",
+   "sub": "A UI/UX-with-AI bootcamp and course I founded and teach: from idea, to design, to build, to a real project.",
+   "form": {
+    "label": "Join the next cohort",
+    "placeholder": "majarat.online",
+    "thanks": ""
+   },
+   "legal": {
+    "prefix": "First cohort: 100 participants from 312 applications ·",
+    "privacy": {
+     "label": "@majarat.uiux",
+     "href": "https://www.instagram.com/majarat.uiux/"
+    },
+    "terms": {
+     "label": "majarat.online",
+     "href": "https://majarat.online/"
+    }
+   }
+  },
+  "contact": {
+   "label": {
+    "brand": "ZR®",
+    "section": "Contact /",
+    "jp": "SAY HELLO"
+   },
+   "intro": "Whether you’re starting from scratch or improving an existing product, let’s bring your idea to life.",
+   "headline": "Let’s talk",
+   "slots": {
+    "prefix": "Available",
+    "for": "for",
+    "month": "projects",
+    "total": 5,
+    "taken": 5,
+    "left": "DM",
+    "suffix": "Message me"
+   },
+   "contacts": {
+    "title": "Contact",
+    "phone": {
+     "label": "+964 774 411 5884",
+     "href": "https://wa.me/9647744115884"
+    },
+    "email": {
+     "label": "@zahraa_resen",
+     "href": "https://www.instagram.com/zahraa_resen/"
+    },
+    "address": "Baghdad, Iraq · Hybrid / Remote"
+   },
+   "socials": {
+    "title": "Elsewhere",
+    "items": [
+     {
+      "name": "LinkedIn",
+      "href": "https://www.linkedin.com/in/zahraa-resen/"
+     },
+     {
+      "name": "Instagram",
+      "href": "https://www.instagram.com/zahraa_resen/"
+     },
+     {
+      "name": "Majarat",
+      "href": "https://www.instagram.com/majarat.uiux/"
+     },
+     {
+      "name": "Monova",
+      "href": "https://www.instagram.com/monova_agency/"
+     }
+    ]
+   },
+   "localTime": {
+    "label": "Baghdad time:",
+    "timeZone": "Asia/Baghdad"
+   },
+   "form": {
+    "fields": [
+     {
+      "id": "name",
+      "label": "Name",
+      "type": "text",
+      "placeholder": "Your name",
+      "half": true
+     },
+     {
+      "id": "phone",
+      "label": "Phone",
+      "type": "tel",
+      "placeholder": "07xx xxx xxxx",
+      "half": true
+     },
+     {
+      "id": "email",
+      "label": "Email",
+      "type": "email",
+      "placeholder": "you@company.com",
+      "half": false
+     }
+    ],
+    "message": {
+     "id": "message",
+     "label": "Message",
+     "placeholder": "Tell me about your project"
+    },
+    "button": "Send on WhatsApp",
+    "thanks": "WhatsApp is open with your message ready. Just hit send."
+   },
+   "legal": {
+    "prefix": "Your message opens in a",
+    "privacy": {
+     "label": "WhatsApp chat",
+     "href": "https://wa.me/9647744115884"
+    },
+    "terms": {
+     "label": "@zahraa_resen",
+     "href": "https://www.instagram.com/zahraa_resen/"
+    }
+   },
+   "hours": {
+    "title": "Status",
+    "rows": [
+     {
+      "days": "Available:",
+      "time": "for product projects"
+     },
+     {
+      "days": "Reach me:",
+      "time": "WhatsApp & Instagram"
+     }
+    ]
+   }
+  },
+  "footer": {
+   "closing": {
+    "line": "Let’s build something great together.",
+    "sub": "Have an idea or a product that needs design and build? Message me and let’s talk.",
+    "cta": {
+     "label": "Start a project",
+     "href": "https://wa.me/9647744115884"
+    },
+    "status": "Available for projects"
+   },
+   "nav": {
+    "title": "Navigation",
+    "links": [
+     {
+      "label": "About",
+      "href": "#hello"
+     },
+     {
+      "label": "Work",
+      "href": "#portfolio"
+     },
+     {
+      "label": "Services",
+      "href": "#services"
+     },
+     {
+      "label": "Contact",
+      "href": "#contact"
+     }
+    ]
+   },
+   "contact": {
+    "title": "Contact",
+    "phone": {
+     "label": "+964 774 411 5884",
+     "href": "https://wa.me/9647744115884"
+    },
+    "instagram": {
+     "label": "@zahraa_resen",
+     "href": "https://www.instagram.com/zahraa_resen/"
+    },
+    "location": "Baghdad, Iraq"
+   },
+   "social": {
+    "title": "Elsewhere",
+    "links": [
+     {
+      "label": "LinkedIn",
+      "href": "https://www.linkedin.com/in/zahraa-resen/"
+     },
+     {
+      "label": "Instagram",
+      "href": "https://www.instagram.com/zahraa_resen/"
+     },
+     {
+      "label": "Majarat",
+      "href": "https://majarat.online/"
+     },
+     {
+      "label": "Monova",
+      "href": "https://www.instagram.com/monova_agency/"
+     }
+    ]
+   },
+   "signature": {
+    "avatar": "work/character/avatar.webp",
+    "name": "Zahraa Resen",
+    "role": "Senior Design Engineer"
+   },
+   "copyright": {
+    "years": "2021–26",
+    "rights": "All rights reserved"
+   },
+   "backToTop": "Back to top"
+  }
+ }
+}
