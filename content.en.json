@@ -31,7 +31,7 @@
     },
     {
      "label": "Start a project",
-     "href": "https://wa.me/9647744115884"
+     "href": "https://wa.me/9647858316000"
     }
    ],
    "menu": {
@@ -98,7 +98,7 @@
     ],
     "cta": {
      "label": "Start a project",
-     "href": "https://wa.me/9647744115884"
+     "href": "https://wa.me/9647858316000"
     },
     "legal": [
      {
@@ -144,7 +144,7 @@
     ],
     "primary": {
      "label": "Start a project",
-     "href": "https://wa.me/9647744115884"
+     "href": "https://wa.me/9647858316000"
     },
     "secondary": {
      "label": "My work",
@@ -174,7 +174,7 @@
     "text": "I start with the user: I design the experience, build the design system, and turn it into code myself with AI. For me, design doesn’t end in Figma.",
     "primary": {
      "label": "Start a project",
-     "href": "https://wa.me/9647744115884"
+     "href": "https://wa.me/9647858316000"
     },
     "secondary": {
      "label": "See my work",
@@ -213,7 +213,7 @@
    ],
    "cta": {
     "label": "Start a project",
-    "href": "https://wa.me/9647744115884"
+    "href": "https://wa.me/9647858316000"
    },
    "clients": {
     "avatars": [
@@ -310,7 +310,7 @@
    },
    "cta": {
     "label": "Let’s talk about your project",
-    "href": "https://wa.me/9647744115884"
+    "href": "https://wa.me/9647858316000"
    },
    "facts": {
     "top": {
@@ -843,7 +843,7 @@
    "annualFactor": 1,
    "cta": {
     "label": "Start a project",
-    "href": "https://wa.me/9647744115884"
+    "href": "https://wa.me/9647858316000"
    },
    "footnote": "Pricing is set once we understand the project",
    "plans": [
@@ -971,9 +971,20 @@
    "open": "Book your consultation",
    "close": "Hide details",
    "price": {
+    "label": "Price",
+    "off": "33% off",
     "value": "100,000",
+    "was": "150,000",
     "currency": "IQD",
-    "per": "per hour"
+    "usd": "$50",
+    "usdWas": "$75",
+    "or": "or",
+    "per": "per hour",
+    "meta": [
+     "60 min",
+     "Online",
+     "Cal Video"
+    ]
    },
    "steps": [
     {
@@ -1006,8 +1017,10 @@
     "bookMessage": "Hi Zahraa, I’d like to book a one-hour consultation.",
     "proof": "Send proof of payment",
     "proofMessage": "Hi Zahraa, I’ve paid for the consultation. Here’s the proof of payment:",
-    "abroadMessage": "Hi Zahraa, I’d like to book a consultation from outside Iraq. Could you send a payment link?"
-   }
+    "abroadMessage": "Hi Zahraa, I’d like to book a consultation from outside Iraq. Could you send a payment link?",
+    "bookLabel": "Pick a time"
+   },
+   "stepsTitle": "How to book"
   },
   "timeline": {
    "label": {
@@ -1207,7 +1220,7 @@
    },
    "cta": {
     "label": "Ask me",
-    "href": "https://wa.me/9647744115884"
+    "href": "https://wa.me/9647858316000"
    },
    "items": [
     {
@@ -1357,8 +1370,8 @@
    "contacts": {
     "title": "Contact",
     "phone": {
-     "label": "+964 774 411 5884",
-     "href": "https://wa.me/9647744115884"
+     "label": "+964 785 831 6000",
+     "href": "https://wa.me/9647858316000"
     },
     "email": {
      "label": "@zahraa_resen",
@@ -1427,7 +1440,7 @@
     "prefix": "Your message opens in a",
     "privacy": {
      "label": "WhatsApp chat",
-     "href": "https://wa.me/9647744115884"
+     "href": "https://wa.me/9647858316000"
     },
     "terms": {
      "label": "@zahraa_resen",
@@ -1454,7 +1467,7 @@
     "sub": "Have an idea or a product that needs design and build? Message me and let’s talk.",
     "cta": {
      "label": "Start a project",
-     "href": "https://wa.me/9647744115884"
+     "href": "https://wa.me/9647858316000"
     },
     "status": "Available for projects"
    },
@@ -1482,8 +1495,8 @@
    "contact": {
     "title": "Contact",
     "phone": {
-     "label": "+964 774 411 5884",
-     "href": "https://wa.me/9647744115884"
+     "label": "+964 785 831 6000",
+     "href": "https://wa.me/9647858316000"
     },
     "instagram": {
      "label": "@zahraa_resen",
