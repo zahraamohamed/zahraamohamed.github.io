@@ -15,7 +15,7 @@
     {
      "label": "Work",
      "href": "#portfolio",
-     "count": "12"
+     "count": "13"
     },
     {
      "label": "Experience",
@@ -44,7 +44,7 @@
      {
       "label": "Work",
       "href": "#portfolio",
-      "count": "12"
+      "count": "13"
      },
      {
       "label": "Services",
@@ -415,6 +415,22 @@
     {
      "index": "01.",
      "year": "2026",
+     "client": "Zara Songs",
+     "title": "Your story, turned into a song",
+     "tags": [
+      "Web Design",
+      "AI Music",
+      "Motion"
+     ],
+     "image": "work/m/case-zarasongs.webp",
+     "alt": "Zara Songs website: stories turned into songs",
+     "video": "work/m/case-zarasongs.mp4",
+     "href": "#portfolio",
+     "position": "50% 0%"
+    },
+    {
+     "index": "02.",
+     "year": "2026",
      "client": "Shipyard",
      "title": "The future of secure payments",
      "tags": [
@@ -429,7 +445,7 @@
      "position": "50% 50%"
     },
     {
-     "index": "02.",
+     "index": "03.",
      "year": "2025",
      "client": "Mazajak",
      "title": "Products that show from the first screen",
@@ -445,7 +461,7 @@
      "position": "50% 50%"
     },
     {
-     "index": "03.",
+     "index": "04.",
      "year": "2025",
      "client": "iBank",
      "title": "Faster, clearer banking",
@@ -460,7 +476,7 @@
      "position": "50% 50%"
     },
     {
-     "index": "04.",
+     "index": "05.",
      "year": "2026",
      "client": "Majarat",
      "title": "Four galaxies, one learning system",
@@ -477,7 +493,7 @@
      "position": "50% 50%"
     },
     {
-     "index": "05.",
+     "index": "06.",
      "year": "2026",
      "client": "Al Murabba",
      "title": "Building on a clear foundation",
@@ -493,7 +509,7 @@
      "video": "work/m/case-almurabba.mp4"
     },
     {
-     "index": "06.",
+     "index": "07.",
      "year": "2024—26",
      "client": "Open Code",
      "title": "Where industry meets code",
@@ -591,6 +607,7 @@
     "durationLabel": "minute of work",
     "videos": [
      "work/m/reel-4seasons-a.mp4",
+     "work/m/reel-zarasongs.mp4",
      "work/m/reel-mazajak-a.mp4",
      "work/m/reel-opencode-b.mp4",
      "work/m/reel-shipyard.mp4",

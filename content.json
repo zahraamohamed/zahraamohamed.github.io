@@ -86,7 +86,7 @@
         {
           "label": "الأعمال",
           "href": "#portfolio",
-          "count": "12"
+          "count": "13"
         },
         {
           "label": "الخبرة",
@@ -115,7 +115,7 @@
           {
             "label": "الأعمال",
             "href": "#portfolio",
-            "count": "12"
+            "count": "13"
           },
           {
             "label": "الخدمات",
@@ -486,6 +486,22 @@
         {
           "index": "01.",
           "year": "2026",
+          "client": "Zara Songs",
+          "title": "قصتك تصير أغنية",
+          "tags": [
+            "Web Design",
+            "AI Music",
+            "Motion"
+          ],
+          "image": "work/m/case-zarasongs.webp",
+          "alt": "موقع Zara Songs لتحويل القصص إلى أغاني",
+          "video": "work/m/case-zarasongs.mp4",
+          "href": "#portfolio",
+          "position": "50% 0%"
+        },
+        {
+          "index": "02.",
+          "year": "2026",
           "client": "Shipyard",
           "title": "مستقبل المدفوعات الآمنة",
           "tags": [
@@ -500,7 +516,7 @@
           "position": "50% 50%"
         },
         {
-          "index": "02.",
+          "index": "03.",
           "year": "2025",
           "client": "مزاجك",
           "title": "المنتجات تبين من أول شاشة",
@@ -516,7 +532,7 @@
           "position": "50% 50%"
         },
         {
-          "index": "03.",
+          "index": "04.",
           "year": "2025",
           "client": "iBank",
           "title": "خدمات مصرفية أسرع وأوضح",
@@ -531,7 +547,7 @@
           "position": "50% 50%"
         },
         {
-          "index": "04.",
+          "index": "05.",
           "year": "2026",
           "client": "مجرات",
           "title": "أربع مجرات، منظومة واحدة للتعلّم",
@@ -548,7 +564,7 @@
           "position": "50% 50%"
         },
         {
-          "index": "05.",
+          "index": "06.",
           "year": "2026",
           "client": "المربع",
           "title": "نبني على أساس واضح",
@@ -564,7 +580,7 @@
           "video": "work/m/case-almurabba.mp4"
         },
         {
-          "index": "06.",
+          "index": "07.",
           "year": "2024—26",
           "client": "أوبن كود",
           "title": "الصناعة تلتقي بالكود",
@@ -662,6 +678,7 @@
         "durationLabel": "دقيقة من الشغل",
         "videos": [
           "work/m/reel-4seasons-a.mp4",
+          "work/m/reel-zarasongs.mp4",
           "work/m/reel-mazajak-a.mp4",
           "work/m/reel-opencode-b.mp4",
           "work/m/reel-shipyard.mp4",
