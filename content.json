@@ -36,11 +36,11 @@
     },
     {
       "id": "consult",
-      "visible": true
+      "visible": false
     },
     {
       "id": "timeline",
-      "visible": true
+      "visible": false
     },
     {
       "id": "facts",
